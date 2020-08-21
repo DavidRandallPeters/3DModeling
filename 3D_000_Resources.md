@@ -9,7 +9,7 @@ Notes prepared by David Peters
 
 ### 3D Game Art Pipeline | Reference
 
-- [FlippedNormals - (YouTube channel)](https://www.youtube.com/c/FlippedNormals/videos)
+- [FlippedNormals - (YouTube channel)](https://www.youtube.com/c/FlippedNormals/videos): Tutorials in Substance, ZBrush, Blender, Maya, Marvelous Designer, retopo etc. 
 - 
 
 
