@@ -17,5 +17,5 @@ Notes prepared by David Peters
 
 ### 3D Game Art | Resource
 
-- [FlippedNormals - (marketplace)](https://flippednormals.com/)
+- [FlippedNormals - (marketplace)](https://flippednormals.com/): Curated CG marketplace - pooling many top educators and artists
 - [Daniel Thiger aka. 'Dete' - (Gumroad)](https://gumroad.com/dete?sort=page_layout): Substance tutorials + materials assets
