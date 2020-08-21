@@ -10,7 +10,7 @@ Notes prepared by David Peters
 ### 3D Game Art Pipeline | Reference
 
 - [FlippedNormals - (YouTube channel)](https://www.youtube.com/c/FlippedNormals/videos): Tutorials in Substance, ZBrush, Blender, Maya, Marvelous Designer, retopo etc. 
-- 
+- [Daniel Thiger aka. 'Dete' - (Artstation)](https://www.artstation.com/dete): Material designer / Substance enthusiast
 
 
 ---
@@ -18,4 +18,4 @@ Notes prepared by David Peters
 ### 3D Game Art | Resource
 
 - [FlippedNormals - (marketplace)](https://flippednormals.com/)
-- 
+- [Daniel Thiger aka. 'Dete' - (Gumroad)](https://gumroad.com/dete?sort=page_layout): Substance tutorials + materials assets
