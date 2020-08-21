@@ -7,7 +7,7 @@ Notes prepared by David Peters
 
 ---
 
-### 3D Game Art Pipeline | Watch
+### 3D Game Art | Watch
 
 - [UE5 tech demo - (YouTube)](https://www.youtube.com/watch?v=qC5KtatMcUw): If this doesn't get you excited, you're a mossy rock 
 - [FlippedNormals react to UE5 tech demo - (YouTube)](https://www.youtube.com/watch?v=5KgWJ1RxDhw&t=3s): To temper your excitement and keep it real
