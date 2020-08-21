@@ -9,7 +9,7 @@ Notes prepared by David Peters
 
 ### 3D Game Art Pipeline | Reference
 
-- [FlippedNormals - (YouTube channel](https://www.youtube.com/c/FlippedNormals/videos)
+- [FlippedNormals - (YouTube channel)](https://www.youtube.com/c/FlippedNormals/videos)
 - 
 
 
@@ -17,5 +17,5 @@ Notes prepared by David Peters
 
 ### 3D Game Art | Resource
 
-- [FlippedNormals - (marketplace](https://flippednormals.com/)
+- [FlippedNormals - (marketplace)](https://flippednormals.com/)
 - 
