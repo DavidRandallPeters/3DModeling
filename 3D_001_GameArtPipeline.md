@@ -79,8 +79,19 @@ Your editor should look something like this:
 
 <br>
 
-It's worthwhile working with a checker guide so that you can track the distortion of the model's surface in the UV editor.
+It's worthwhile working with a checker guide so that you can track the distortion of the 2D map in the UV editor.
 
+Maya provides a checker pattern by default. You can follow these steps to apply it - however, we'll shortly apply our own, as Maya's one is a little hard on the eyes - so you can skip this step and go straight to the next one.
+
+<br>
+
+
+
+<br><br>
+
+### Applying a custom checker
+
+![UVChecker](https://user-images.githubusercontent.com/36719180/92535067-7f196200-f28a-11ea-909b-b7b3a1f11f36.png)
 
 
 
