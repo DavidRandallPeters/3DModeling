@@ -15,7 +15,7 @@ While the principals covered here are indeed generally applicable, we'll be taki
 
 <br>
 
-![Software](https://user-images.githubusercontent.com/36719180/92525185-7d926e80-f277-11ea-8f61-23d33a787dd0.png)
+![Software](https://user-images.githubusercontent.com/36719180/92525625-496b7d80-f278-11ea-9d34-466b5e943f30.png)
 
 <br>
 
