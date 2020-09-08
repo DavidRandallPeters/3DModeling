@@ -114,6 +114,8 @@ We'll talk more about this soon.
 
 ## 001.004 | Applying a default checker [optional]
 
+<br>
+
 It's worthwhile working with a checker guide so that you can track the distortion of the 2D map in the UV editor.
 
 Maya provides a checker pattern by default. You can follow these steps to apply it - however, we'll shortly apply our own, as Maya's one is a little hard on the eyes.
@@ -132,7 +134,19 @@ Optional:
 
 ## 001.005 | Applying a custom checker
 
+<br>
+
 ![UVChecker](https://user-images.githubusercontent.com/36719180/92535067-7f196200-f28a-11ea-909b-b7b3a1f11f36.png)
+
+<br>
+
+The image you see here is easier on the eyes and just lends itself a little better to thetask at hand.
+
+By applying this checker to our model, we'll simultaneously learn how to apply a texture to a model in Maya (if this isn't a skill you already have).
+
+<br>
+
+- Download the above checker image to a folder called **images** within your Maya scene folder - if you're using the provided Maya scene, the folder will have the extension: *UVMapping » images*
 
 
 
