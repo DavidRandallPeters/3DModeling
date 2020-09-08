@@ -32,6 +32,21 @@ The path we'll take is as follows:
 
 ## 001.002 | UV Mapping in Maya
 
+<br>
+
+### What is a UV Map?
+
+UV mapping describes the process of projecting a 2D image to a 3D model's surface for texture mapping.
+
+The letters **U** and **V** denote the axes of the 2D texture because *X, Y,* and *Z* are already used to denote the axes of the 3D object in model space.
+
+<br>
+
+![UVcoordinates](https://user-images.githubusercontent.com/36719180/92531713-f945e880-f282-11ea-9afc-ece11d7c6d81.png)
+
+<br>
+
+
 
 
 
