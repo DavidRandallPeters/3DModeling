@@ -94,7 +94,11 @@ We need some information to work with - so we'll generate some initial UV data t
 
 <br>
 
-We now have some data to begin working with. Note that it's filled up all available real-estate within the UV grid's first quadrant. That is to say that all available space - from 0.0, 0.0 to 1.0, 1.0 has been utilised. 
+We now have some data to begin working with.
+
+Note that Maya has filled up all available real-estate within the UV grid's first quadrant.
+
+That is to say that all available space - from 0.0, 0.0 to 1.0, 1.0 has been utilised. 
 
 It is within this space that our *UV Shells* must ultimately be positioned in order for them to be included in the map. 
 
