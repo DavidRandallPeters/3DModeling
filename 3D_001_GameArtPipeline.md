@@ -46,7 +46,21 @@ The letters **U** and **V** denote the axes of the 2D texture because *X, Y,* an
 
 ![UVcoordinates](https://user-images.githubusercontent.com/36719180/92531713-f945e880-f282-11ea-9afc-ece11d7c6d81.png)
 
+<br><br>
+
+### Getting started
+
+We'll begin in Maya. You'll need to open your Maya scene or the one I've provided you with in this repository.
+
+The scene I've provided you with contains a simple model of some sort of proximity mine.
+
 <br>
+
+![Mine01](https://user-images.githubusercontent.com/36719180/92533895-9014a400-f287-11ea-8e98-b516fcfa75f5.png)
+
+<br>
+
+
 
 
 
