@@ -13,6 +13,8 @@ There are various methodologies used for preparing your 3D game art for use in-e
 
 While the principals covered here are indeed generally applicable, we'll be taking a Maya » Substance » UE4 approach.
 
+<br>
+
 The path we'll take is as follows:
 
 - UV Mapping within Maya: You can use models of your own - or download the example 3D models provided
