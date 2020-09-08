@@ -75,7 +75,7 @@ The UV editor will likely be empty.
 
 Your editor should look something like this:
 
-![UVEditorEmpty](https://user-images.githubusercontent.com/36719180/92534583-44fb9080-f289-11ea-9181-67b3ee6cbda3.png)
+![UVEditorEmpty](https://user-images.githubusercontent.com/36719180/92534808-e1be2e00-f289-11ea-9eed-4a526fe64cc6.png)
 
 <br>
 
