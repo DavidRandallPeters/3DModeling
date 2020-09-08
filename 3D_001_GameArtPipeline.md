@@ -60,6 +60,21 @@ The scene I've provided you with contains a simple model of some sort of proximi
 
 <br>
 
+We'll do this work within Maya's UV Editor. Let's get that up and running:
+
+- Select each model component in 'Object Mode' (ie. Right-Click the 3D model and choose 'Object mode') 
+- In the main menu bar (at the very top), choose **UV » UV Editor** - this will open the UV editor
+
+<br>
+
+The UV editor will likely be empty.
+
+- If for some reason it's not, in the main menu bar, choose **UV » Delete UVs** - (this will get us all on the same page)
+
+<br>
+
+It's worthwhile working with a checker guide so that you can track the distortion of the model's surface in the UV editor.
+
 
 
 
