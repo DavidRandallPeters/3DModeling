@@ -81,7 +81,7 @@ Your editor should look something like this:
 
 Maya's UV Toolkit contains a wide range of handy tools for this sort of work, so let's get that open, too:
 
-- In the **UV EDitor**'s menu bar, choose **Tools » Show UV Toolkit**
+- In the **UV Editor**'s menu bar, choose **Tools » Show UV Toolkit**
 - I like to dock this beneath my *Channel Box* and *Attribute Editor* - by all means, do the same
 
 <br>
@@ -102,7 +102,7 @@ We now have some data to begin working with.
 
 Note that Maya has filled up all available real-estate within the UV grid's first quadrant.
 
-That is to say that all available space - from 0.0, 0.0 to 1.0, 1.0 has been utilised. 
+That is to say that all available space - from 0.0, 0.0 (bottom-left) to 1.0, 1.0 (top-right) has been utilised. 
 
 It is within *this* space that our *UV Shells* must ultimately be positioned in order for them to be included in the map. 
 
