@@ -15,7 +15,7 @@ While the principals covered here are indeed generally applicable, we'll be taki
 
 <br>
 
-![Software](https://user-images.githubusercontent.com/36719180/92525625-496b7d80-f278-11ea-9d34-466b5e943f30.png)
+![Path](https://user-images.githubusercontent.com/36719180/92525813-9b140800-f278-11ea-8385-6908b4723c85.png)
 
 <br>
 
