@@ -1,4 +1,4 @@
-# 3D Modeling for Game | 001 | 3D Game Art Pipeline via Substance
+# 3D Modeling for Game | 001 | UV Mapping
 
 ![Banner01](https://user-images.githubusercontent.com/36719180/90704035-7c5acb00-e2e3-11ea-9868-887cf42c25b1.png)
 
@@ -94,7 +94,11 @@ We need some information to work with - so we'll generate some initial UV data t
 
 <br>
 
-We now have some data to begin working with. Note that it's filled up all available real-estate within the UV grid's first quadrant. That is to say that all space from 
+We now have some data to begin working with. Note that it's filled up all available real-estate within the UV grid's first quadrant. That is to say that all available space - from 0.0, 0.0 to 1.0, 1.0 has been utilised. 
+
+It is within this space that our *UV Shells* must ultimately be positioned in order for them to be included in the map. 
+
+We'll talk more about this soon.
 
 <br>
 
