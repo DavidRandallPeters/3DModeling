@@ -79,11 +79,34 @@ Your editor should look something like this:
 
 <br>
 
-It's worthwhile working with a checker guide so that you can track the distortion of the 2D map in the UV editor.
+Maya's UV Toolkit contains a wide range of jandy tools for this sort of work, so let's get that open, too:
 
-Maya provides a checker pattern by default. You can follow these steps to apply it - however, we'll shortly apply our own, as Maya's one is a little hard on the eyes - so you can skip this step and go straight to the next one.
+- In the **UV EDitor**'s menu bar, choose **Tools » Show UV Toolkit**
+- I like to dock this beneath my *Channel Box** and *Attribute Editor* - by all means, do the same
 
 <br>
+
+We need some information to work with - so we'll generate some initial UV data that we'll then adjust to suit our needs.
+
+<br>
+
+- With your model components still selected, hit **Planar** in the **UV Toolkit** - you'll find this in the **Create** section
+
+<br>
+
+We now have some data to begin working with. Note that it's filled up all available real-estate within the UV grid's first quadrant. That is to say that all space from 
+
+<br>
+
+It's worthwhile working with a checker guide so that you can track the distortion of the 2D map in the UV editor.
+
+Maya provides a checker pattern by default. You can follow these steps to apply it - however, we'll shortly apply our own, as Maya's one is a little hard on the eyes.
+
+So, you can skip these steps and go directly to *Applying a custom checker.*
+
+<br>
+
+- 
 
 
 
