@@ -62,7 +62,7 @@ The scene I've provided you with contains a simple model of some sort of proximi
 
 We'll do this work within Maya's UV Editor. Let's get that up and running:
 
-- Select each model component in 'Object Mode' (ie. Right-Click the 3D model and choose 'Object mode') 
+- **Select** each model component in **Object Mode** (ie. Right-Click the 3D model components and choose 'Object mode' - and select all components) 
 - In the main menu bar (at the very top), choose **UV » UV Editor** - this will open the UV editor
 
 <br>
