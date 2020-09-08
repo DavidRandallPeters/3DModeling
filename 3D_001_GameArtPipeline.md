@@ -38,6 +38,8 @@ The path we'll take is as follows:
 
 UV mapping describes the process of projecting a 2D image to a 3D model's surface for texture mapping.
 
+In short, a UV map is a 2D representation of your 3D model - allowing textures to be mapped to your model and stored as 2D file-types - and applied to your 3D model in 3D software.
+
 The letters **U** and **V** denote the axes of the 2D texture because *X, Y,* and *Z* are already used to denote the axes of the 3D object in model space.
 
 <br>
