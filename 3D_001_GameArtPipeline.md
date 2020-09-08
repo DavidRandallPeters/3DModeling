@@ -15,6 +15,10 @@ While the principals covered here are indeed generally applicable, we'll be taki
 
 <br>
 
+![Software](https://user-images.githubusercontent.com/36719180/92525185-7d926e80-f277-11ea-8f61-23d33a787dd0.png)
+
+<br>
+
 The path we'll take is as follows:
 
 - UV Mapping within Maya: You can use models of your own - or download the example 3D models provided
