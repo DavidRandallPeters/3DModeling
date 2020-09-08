@@ -126,8 +126,17 @@ So, you can skip these steps and go directly to *Applying a custom checker.*
 
 Optional:
 
-- 
+- With the model components still selected, hit the **Checker Map** button in the **UV Editor** (top-right)
 
+![Checker Map](https://user-images.githubusercontent.com/36719180/92537657-c7d41980-f290-11ea-84a1-3bba063d1f72.png)
+
+<br>
+
+You should now see a checker grid projected onto your model like this:
+
+<br>
+
+![Default checker](https://user-images.githubusercontent.com/36719180/92537915-71b3a600-f291-11ea-8f81-c856a47638fc.png)
 
 <br><br>
 
@@ -146,7 +155,7 @@ By applying this checker to our model, we'll simultaneously learn how to apply a
 
 <br>
 
-- Download the above checker image to a folder called **images** within your Maya scene folder - if you're using the provided Maya scene, the folder will have the extension: *UVMapping » images*
+- Download the above checker image to a folder called **images** within your Maya scene folder - if you're using the provided Maya scene, the folder will have the extension: *3DAssetPipeline » images*
 
 
 
