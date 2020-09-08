@@ -79,10 +79,10 @@ Your editor should look something like this:
 
 <br>
 
-Maya's UV Toolkit contains a wide range of jandy tools for this sort of work, so let's get that open, too:
+Maya's UV Toolkit contains a wide range of handy tools for this sort of work, so let's get that open, too:
 
 - In the **UV EDitor**'s menu bar, choose **Tools » Show UV Toolkit**
-- I like to dock this beneath my *Channel Box** and *Attribute Editor* - by all means, do the same
+- I like to dock this beneath my *Channel Box* and *Attribute Editor* - by all means, do the same
 
 <br>
 
@@ -104,11 +104,13 @@ Note that Maya has filled up all available real-estate within the UV grid's firs
 
 That is to say that all available space - from 0.0, 0.0 to 1.0, 1.0 has been utilised. 
 
-It is within this space that our *UV Shells* must ultimately be positioned in order for them to be included in the map. 
+It is within *this* space that our *UV Shells* must ultimately be positioned in order for them to be included in the map. 
 
 We'll talk more about this soon.
 
 <br>
+
+### Applying a default checker
 
 It's worthwhile working with a checker guide so that you can track the distortion of the 2D map in the UV editor.
 
@@ -117,6 +119,8 @@ Maya provides a checker pattern by default. You can follow these steps to apply 
 So, you can skip these steps and go directly to *Applying a custom checker.*
 
 <br>
+
+Optional:
 
 - 
 
