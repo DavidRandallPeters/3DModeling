@@ -17,6 +17,10 @@ The path we'll take is as follows:
 
 - UV Mapping within Maya: You can use models of your own - or download the example 3D models provided
 - Exporting these models and UVs for use within Substance Painter
+- Baking high-poly data onto a low-poly model
+- Applying colours and textures to your model
+- Exporting from Subtance
+- Importing to UE4
 
 <br><br>
 
