@@ -40,7 +40,7 @@ UV mapping describes the process of projecting a 2D image to a 3D model's surfac
 
 In short, a UV map is a 2D representation of your 3D model - allowing textures to be mapped to your model and stored as 2D file-types - and applied to your 3D model in 3D software.
 
-The letters **U** and **V** denote the axes of the 2D texture because *X, Y,* and *Z* are already used to denote the axes of the 3D object in model space.
+The letters **U** and **V** denote the axes of the 2D texture because *X, Y,* and *Z* are already used to denote the axes of the 3D object in digital 3D space.
 
 <br>
 
@@ -72,6 +72,10 @@ The UV editor will likely be empty.
 - If for some reason it's not, in the main menu bar, choose **UV » Delete UVs** - (this will get us all on the same page)
 
 <br>
+
+Your editor should look something like this:
+
+
 
 It's worthwhile working with a checker guide so that you can track the distortion of the model's surface in the UV editor.
 
