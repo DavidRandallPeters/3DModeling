@@ -94,6 +94,10 @@ We need some information to work with - so we'll generate some initial UV data t
 
 <br>
 
+![Initial Map](https://user-images.githubusercontent.com/36719180/92536267-56df3280-f28d-11ea-83f7-c7623ee13577.png)
+
+<br>
+
 We now have some data to begin working with.
 
 Note that Maya has filled up all available real-estate within the UV grid's first quadrant.
