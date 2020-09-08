@@ -30,11 +30,9 @@ The path we'll take is as follows:
 
 <br><br>
 
-## 001.002 | UV Mapping in Maya
+## 001.002 | What is a UV Map?
 
 <br>
-
-### What is a UV Map?
 
 UV mapping describes the process of projecting a 2D image to a 3D model's surface for texture mapping.
 
@@ -48,7 +46,10 @@ The letters **U** and **V** denote the axes of the 2D texture because *X, Y,* an
 
 <br><br>
 
-### Getting started
+
+## 001.003 | Getting started
+
+<br>
 
 We'll begin in Maya. You'll need to open your Maya scene or the one I've provided you with in this repository.
 
@@ -108,9 +109,10 @@ It is within *this* space that our *UV Shells* must ultimately be positioned in 
 
 We'll talk more about this soon.
 
-<br>
+<br><br>
 
-### Applying a default checker
+
+## 001.003 | Applying a default checker
 
 It's worthwhile working with a checker guide so that you can track the distortion of the 2D map in the UV editor.
 
