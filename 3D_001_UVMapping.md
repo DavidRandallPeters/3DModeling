@@ -112,7 +112,7 @@ We'll talk more about this soon.
 <br><br>
 
 
-## 001.003 | Applying a default checker
+## 001.004 | Applying a default checker [optional]
 
 It's worthwhile working with a checker guide so that you can track the distortion of the 2D map in the UV editor.
 
@@ -127,10 +127,10 @@ Optional:
 - 
 
 
-
 <br><br>
 
-### Applying a custom checker
+
+## 001.005 | Applying a custom checker
 
 ![UVChecker](https://user-images.githubusercontent.com/36719180/92535067-7f196200-f28a-11ea-909b-b7b3a1f11f36.png)
 
