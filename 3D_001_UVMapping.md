@@ -12,6 +12,8 @@ Using Maya 2020
 
 ## 001.001 | Overview
 
+<br>
+
 There are various methodologies used in the industry for preparing 3D game art for use in-engine.
 
 While the concepts and principals covered here are indeed generally applicable, we'll specifically be taking a Maya » Substance » UE4 approach.
