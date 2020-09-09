@@ -617,5 +617,4 @@ Next time, we'll get export our models, get them into Substance Painter and get 
 
 ### Continued in 3D_002_Substance.md
 
-
-
+---
