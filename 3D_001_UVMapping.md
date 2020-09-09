@@ -550,9 +550,49 @@ The result is pictured above. This is pretty much perfect.
 <br><br>
 
 
-## 001.011 | Packing
+## 001.011 | Packing + Layout
 
 <br>
+
+The last step is to contain all our *UV Shells* within a single *U-DIM*.
+
+Maya totally does have automatic packing tools - which you're welcome to experiment with (play around in the *Arrange and Layout* section of the *UV Toolkit*) - but typically it's best for everyone working on an asset (and more staisfying) to pack it all up yourself. It just grants greater control and better lends itself to human intuition.
+
+<br><br>
+
+### Some tips
+
+1. Remember that the larger a UV-Shell is, the more texture resolution it will receive in Substance (or similar). 
+
+2. Prioritise shells that will receive important graphics.
+
+3. Consider what will be seen and what will be less visible.
+
+4. Consider whether text will be implimented and whether it needs to be legible.
+
+5. Consider whether the end-material can handle being output at a lower resolution (freeing up space for more important areas). For example, a shiny metal surface with no damage or weathering can be made smaller - while chipped paint and decals should be larger.
+
+6. Importantly, where shells will ultimately share a similar finish (a checker pattern, for example) *ensure that shells are of a common scale* - else that pattern/texture may be output at varying sizes. You may wish to reinstate the checker pattern here in Maya to reduce disparity.
+
+<br>
+
+To illustrate that last point, take a look at my current map and model - massive disparity beetween scale! 
+
+I'll need to keep this in mind and consider carefully as I pack this up:
+
+<br>
+
+![Disparity](https://user-images.githubusercontent.com/36719180/92578551-18bf2e80-f2e0-11ea-96d4-7e7c5f06d7d9.png)
+
+<br><br>
+
+### Final steps
+
+- ssdg
+
+
+
+
 
 
 
