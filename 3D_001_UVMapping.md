@@ -576,7 +576,7 @@ Maya totally does have automatic packing tools - which you're welcome to experim
 
 <br>
 
-To illustrate that last point, take a look at my current map and model - massive disparity beetween scale! 
+To illustrate that last point, take a look at my current map and model - **massive disparity of scale!**
 
 I'll need to keep this in mind and consider carefully as I pack this up:
 
