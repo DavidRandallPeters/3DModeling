@@ -304,6 +304,8 @@ Important areas are likely to be regions of your model that will be seen the mos
 
 Simply put:
 
+<br>
+
 **You should attempt to hide your seams wherever practical.**
 
 <br>
