@@ -1,17 +1,19 @@
 # 3D Modeling for Game | 001 | UV Mapping
 
-![Banner01](https://user-images.githubusercontent.com/36719180/90704035-7c5acb00-e2e3-11ea-9868-887cf42c25b1.png)
+
+![Banner](https://user-images.githubusercontent.com/36719180/90928812-ad560f80-e44b-11ea-8bc2-cf44378c8e36.png)
 
 
-Notes prepared by David Peters 
+Notes prepared by David Peters
+Using Maya 2020
 
 ---
 
 ## 001.001 | Overview
 
-There are various methodologies used for preparing your 3D game art for use in-engine.
+There are various methodologies used in the industry for preparing 3D game art for use in-engine.
 
-While the principals covered here are indeed generally applicable, we'll be taking a Maya » Substance » UE4 approach.
+While the concepts and principals covered here are indeed generally applicable, we'll specifically be taking a Maya » Substance » UE4 approach.
 
 <br>
 
@@ -19,7 +21,7 @@ While the principals covered here are indeed generally applicable, we'll be taki
 
 <br>
 
-The path we'll take is as follows:
+The path we'll take goes somethin' like this:
 
 - UV Mapping within Maya: You can use models of your own - or download the example 3D models provided
 - Exporting these models (with their UV's) for use within Substance Painter
@@ -36,9 +38,9 @@ The path we'll take is as follows:
 
 UV mapping describes the process of projecting a 2D image to a 3D model's surface for texture mapping.
 
-In short, a UV map is a 2D representation of your 3D model - allowing textures to be mapped to your model and stored as 2D file-types - and applied to your 3D model in 3D software.
+In short, a UV map is a 2D representation of your 3D model - allowing textures to be mapped to your model and stored as 2D file-types - and applied to your 3D model within 3D software.
 
-The letters **U** and **V** denote the axes of the 2D texture because *X, Y,* and *Z* are already used to denote the axes of the 3D object in digital 3D space.
+The letters **U** and **V** denote the axes of the 2D texture - because *X, Y,* and *Z* are already used to denote the axes of the 3D object in digital 3D space.
 
 <br>
 
@@ -53,7 +55,7 @@ The letters **U** and **V** denote the axes of the 2D texture because *X, Y,* an
 
 We'll begin in Maya. You'll need to open your Maya scene or the one I've provided you with in this repository.
 
-The scene I've provided you with contains a simple model of some sort of proximity mine.
+The scene I've provided you with contains a simple model of some sort of.. *proximity mine?*
 
 <br>
 
