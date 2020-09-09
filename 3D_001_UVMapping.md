@@ -492,16 +492,55 @@ This section simply repeats previous steps in order to get the rest of the model
 
 ![Seven Shells](https://user-images.githubusercontent.com/36719180/92572450-91ba8800-f2d8-11ea-9bea-566e5071c5f6.png)
 
-<br>
+<br><br>
 
-- as
+So I'm now satisfied that all *UV Shells* have been created and unfolded ina way that allows direct projection of a texture map onto all faces.
+
+We just have a few final steps to take before this UV map will be ready for export.
 
 <br><br>
 
 
-## 001.010 | Unfolding
+## 001.010 | Optimisation
 
 <br>
+
+The UV Shells that we've created are pretty good.. we could just scale these down so that they fit within the U-DIM and export.
+
+But all will not be perfect.
+
+The process we've just undergone can be thought of as broad strokes. In most cases, there will be slight inconsistencies that may or may not result in dodgy texture projection. 
+
+For example, take a close look at the fins on the 'Before' image below. They're not quite right.
+
+<br>
+
+![Optimise before/after](https://user-images.githubusercontent.com/36719180/92574621-6edda300-f2db-11ea-92a1-7dfec21e5ddd.png)
+
+<br>
+
+- Select the *UV Shell* in question and hit **Optimize** in the **UV Toolkit** - the result is shown above in the 'After' image
+
+<br>
+
+This is an improvement but, in this case, it didn't make a whole heap of difference. So I defer now to the *Optimize Tool*
+
+<br>
+
+- Choose the **Optimize Tool** in the **UV Toolkit** 
+
+> This is something like a Photoshop brush. To use it, you click and 'paint' over areas that you think need further optimisation.
+
+- Brush around the *UV Shell* until you stop noticing any further change to the Shell's shape
+
+<br>
+
+![Optimize Tool](https://user-images.githubusercontent.com/36719180/92574851-c0862d80-f2db-11ea-8547-7667ae2c75e4.png)
+
+<br>
+
+The result is pictured above. 
+
 
 
 
