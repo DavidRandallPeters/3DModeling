@@ -167,7 +167,7 @@ By applying this checker to our model, we'll simultaneously learn how to apply a
 
 <br>
 
-- In the **Property Editor** panel within the *Hypershade* window, give the material a name: aiCheckerPattern
+- In the **Property Editor** panel within the *Hypershade* window, give the material a name: *aiCheckerPattern*
 > This goes in the aiStandardSurface field
 
 > Adding the ai prefix ('ai', signifying Arnold materials) is a general good habit to get into. It helps us identify the types of materials we've created, at a glance
@@ -192,7 +192,9 @@ By applying this checker to our model, we'll simultaneously learn how to apply a
 
 <br>
 
-- 
+- Close the **Hypershade Window**
+- Ensure all components are selected in the main viewport
+- **Right-click** and hold (with the cursor above an object in the viewport) and choose **Assign Existing Material » aiCheckerPattern
 
 
 
