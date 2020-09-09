@@ -220,7 +220,7 @@ If you wish, you can adjust the way this texture is applied to your model via th
 
 In this section, you may wish to alter the **Repeat UV** parameters to, say, *5.000 x 5.000*.
 
-<br><br>
+<br>
 
 >A final note: if your texture is blurred, either in the viewport or the UV Editor, try saving your project and restarting Maya. Textures should come right when you reopen the project.
 
