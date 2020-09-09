@@ -288,7 +288,36 @@ Notice that the seam is reflected both in the viewport and in the UV Editor.
 
 - By reselecting any edges that you just cut, and hitting **Sew** in the **UV Toolkit**, you can merge UV Shells back together
 
->Note that, if you've moved Shells away from each other and you then sew, it bridges the gap between the two - irrespective of position. This can mean that regions in the UV editor can become distorted. This is just something you'll need to look out for. You may find you need to recreate projections if things get too messy.
+Note that, if you've moved Shells away from each other and you then sew, it bridges the gap between the two - irrespective of position. This can mean that regions in the UV editor can become distorted. To avoid this, you can alternately use **Stitch Together** (also in the *Cut and Sew* section of the *UV Toolkit*)
+
+I suggest you give that a try now to observe its effects.
+
+<br><br>
+
+### Rule of thumb
+
+<br>
+
+As a general rule, when establishing where to put a seam and subsequently making cuts, you want to put as few cuts and seams in important areas. 
+
+Important areas are likely to be regions of your model that will be seen the most - or areas that have no natural edges or corners (eg. the middle of a large surface).
+
+Simply put; you should attempt to hide your seams wherever practical.
+
+This is for two main reaons:
+
+- Seams can become visible when applying textures - though, this is becoming less and less and issue as software such as Substance Painter becomes more intuitive and versatile.
+- In a production environment, someone else will likely be creating textures for UV maps that you've created. You therefore want to make it as clear as possible what's what and generally make their job easier.
+
+<br>
+
+
+
+
+
+
+
+
 
 
 
