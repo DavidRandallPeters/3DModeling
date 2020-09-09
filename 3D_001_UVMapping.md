@@ -210,6 +210,18 @@ We now have an ideal texture applied to our model components for the purpose of 
 
 ![Textured](https://user-images.githubusercontent.com/36719180/92542619-58185b80-f29d-11ea-954c-6b8cc16d96d7.png)
 
+<br>
+
+If you wish, you can adjust the way this texture is applied to your model via the *Attribute Editor*:
+
+- Select the **aiCheckerPattern** tab at the top of the **Attribute Editor**
+- Hit the arrow-lookin' icon to the right of the **Color** field in the **Base** section
+- Select the **place2dTexture** tab 
+
+In this section, you may wish to alter the **Repeat UV** parameters to, say, *5.000 x 5.000*
+
+>A final note: if your texture is blurred, either in the viewport or the UV Editor, try saving your project and restarting Maya. Textures should come right when you reopen the project.
+
 <br><br>
 
 
