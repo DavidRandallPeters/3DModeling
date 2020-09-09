@@ -333,13 +333,52 @@ We're essentially trying to achieve the following:
 <br><br>
 
 
-## 001.007 | Unfolding
+## 001.007 | Alternate projection methods
 
 <br>
 
 The best way to get comfortable with this process is to try it out - which we'll do very shortly.
 
 But first, a couple more tips and tricks to help you along your way.
+
+The projection method we initially used to generate our UV information is an okay starting point, but our task will prove slightly easier if we just take a little more care when generating that initial data.
+
+<br>
+
+- At this point, I *do* suggest you watch this video by FlippedNormals. They cover a range of concepts that are best seen demonstrated.
+[UV Mapping - complete basics](https://www.youtube.com/watch?v=dj0uXid9oGo&t=476s&ab_channel=FlippedNormals)
+
+<br>
+
+Meanwhile, I'll demonstrate what I think is the best starting point for this landmine model.
+
+We'll start with the 'cap' object. Ultimately, I'll make this a glowing light that will indicate to the player that the device is armed and dangerous.
+
+I'm going to isolate the object from the body of the mine to make things clearer.
+
+<br>
+
+- In the main viewport, in **Object mode**, select just the 'cap' object
+- Hit **Ctrl+1** to isolate it
+- With the 'cap' object still selected, in the **UV Toolkit**, hit **Best Plane** - this will prompt a dialogue:
+
+<br>
+
+![Dialogue](https://user-images.githubusercontent.com/36719180/92551669-ad129c80-f2b2-11ea-96c3-4612a458b55c.png)
+
+<br>
+
+
+- The most prominent surface on this object is its top-most [circular] asf
+
+
+
+<br><br>
+
+
+## 001.087 | Unfolding
+
+<br>
 
 Our texture regions are currently doubled-up / layered on top of themselves. That's why we see a reversed texture when we orbit around behind our model.
 
