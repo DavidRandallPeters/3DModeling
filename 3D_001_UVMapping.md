@@ -369,7 +369,23 @@ I'm going to isolate the object from the body of the mine to make things clearer
 <br>
 
 
-- The most prominent surface on this object is its top-most [circular] asf
+- The most prominent surface on this object is its top-most [circular] region. So we should choose a pie-slice from that region to determine the projection plane.
+
+<br>
+
+![Pie slice](https://user-images.githubusercontent.com/36719180/92552047-d122ad80-f2b3-11ea-8a30-116901262b0e.png)
+
+<br>
+
+- Once you've selected a triangular segment within that top-most region, hit **Enter** 
+
+<br>
+
+![New projection](https://user-images.githubusercontent.com/36719180/92552128-0a5b1d80-f2b4-11ea-904d-c56134aa37bd.png)
+
+<br>
+
+We now have a new projection that occupies the entire UV quadrant.
 
 
 
