@@ -158,7 +158,7 @@ Also, by applying this checker pattern to our model, we'll simultaneously learn 
 
 <br>
 
-- Download the above checker image to a folder called **images** within your Maya scene folder - if you're using the provided Maya scene, the folder will have the extension: *3DAssetPipeline » images*
+- Download the above checker image to a folder called **images** within your Maya scene folder - if you're using the provided Maya scene, the folder will have the extension: *LandMineMkII » images*
 - In Maya, open the **Hypershade window** - the easiest way to do this is via the 'teal shader' button in the main toolbar (top) it looks like this:
 
 ![Hypershade](https://user-images.githubusercontent.com/36719180/92539920-1b496600-f297-11ea-9ba4-63d731f97e5c.png)
