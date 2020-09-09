@@ -460,6 +460,26 @@ This section simply repeats previous steps in order to get the rest of the model
 
 ![ColourCode](https://user-images.githubusercontent.com/36719180/92558412-92e0ba80-f2c2-11ea-9f58-f510cd1bcdcc.png)
 
+<br>
+
+>It's not too late to make tweaks to the model - so I might do that now..
+
+- When you're all set, isolate the object (**Ctrl+1**)
+
+>I'm going to make the yellow separate to [what will be] the metal.. so:
+
+- Make seams where those colours meet. This will just make things simpler in Substance.
+
+> This object is now split into four *UV Shells*
+
+<br>
+
+![Four shells](https://user-images.githubusercontent.com/36719180/92559249-4dbd8800-f2c4-11ea-88f2-1ddeb16a9f57.png)
+
+<br>
+
+- 
+
 <br><br>
 
 
