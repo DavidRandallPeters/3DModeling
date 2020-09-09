@@ -486,6 +486,16 @@ This section simply repeats previous steps in order to get the rest of the model
 
 <br>
 
+- I made the decision to snip those yellow bands into ribbons. So we now have seven *UV Shells* making up this object.
+
+<br>
+
+![Seven Shells](https://user-images.githubusercontent.com/36719180/92572450-91ba8800-f2d8-11ea-9bea-566e5071c5f6.png)
+
+<br>
+
+- as
+
 <br><br>
 
 
