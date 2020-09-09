@@ -16,6 +16,7 @@ Notes prepared by David Peters
 
 ### 3D Game Art Pipeline | Reference
 
+- [Tips for improving your UV mapping workflow](http://www.paulhpaulino.com/6-tips-to-improve-your-uv-mapping-workflow/)
 - [FlippedNormals - (YouTube channel)](https://www.youtube.com/c/FlippedNormals/videos): Tutorials in Substance, ZBrush, Blender, Maya, Marvelous Designer, retopo etc. 
 - [Daniel Thiger aka. 'Dete' - (Artstation)](https://www.artstation.com/dete): Material designer / Substance enthusiast
 
