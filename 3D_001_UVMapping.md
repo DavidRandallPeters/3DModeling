@@ -86,7 +86,7 @@ Your editor should look something like this:
 Maya's UV Toolkit contains a wide range of handy tools for this sort of work, so let's get that open, too:
 
 - In the **UV Editor**'s menu bar, choose **Tools » Show UV Toolkit**
-- I like to dock this beneath my *Channel Box* and *Attribute Editor* - by all means, do the same
+- I like to dock this beneath my *Channel Box* and *Attribute Editor* - by all means, do the same - *or don't!*
 
 <br>
 
