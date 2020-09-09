@@ -614,7 +614,7 @@ I've given **high priority** to: the 'painted' band around the outside, the top 
 
 That's it for now!
 
-Next time, we'll get export our models, get them into Substance Painter and get into the fun stuff.
+Next time, we'll export our models (high-poly and low-poly), get them into Substance Painter and hit the fun stuff.
 
 <br><br>
 
