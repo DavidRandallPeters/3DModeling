@@ -478,7 +478,13 @@ This section simply repeats previous steps in order to get the rest of the model
 
 <br>
 
-- 
+- I'll now re-project the two 'metal' shells and the yellow 'lid' using **Best Plane** in the same way as we did before - although, I've just realised that the inside lip (that goes downwards, inside the top) will overlap itself - so I'm cutting that off. We now have five *UV Shells*
+
+<br>
+
+
+
+<br>
 
 <br><br>
 
