@@ -229,11 +229,11 @@ In this section, you may wish to alter the **Repeat UV** parameters to, say, *5.
 <br><br>
 
 
-## 001.006 | Selection
+## 001.006 | Cutting and Sewing
 
 <br>
 
-afasff
+Now, we'll make a start using the tools that will allow us to make a neat UV map for our model.
 
 <br>
 
@@ -242,6 +242,25 @@ afasff
 <br>
 
 ![Textured](https://user-images.githubusercontent.com/36719180/92542619-58185b80-f29d-11ea-954c-6b8cc16d96d7.png)
+
+<br>
+
+- In **Edge** select mode, select any edge (or edges) in your model
+- Open your **UV Toolkit** - should be docked under your *Attribute Editor* etc. If you've lost it somehow, you can reopen it via the *UV Editor* under *Tools » Show UV Toolkit*
+- In the **UV Toolkit**, expand **Cut and Sew**
+- Hit **Cut** to create a seam
+
+If you deselect everything, you'll now see a bold white line where you just made a seam. 
+
+If you were to make an entire cut (such as an edge loop) that disects your model, you'd now have two *UV Shells* - whereas, before, you just had the one. More on those shortly.
+
+Notice that the seam is reflected both in the viewport and in the UV Editor.
+
+>You can hit the **Display Image** button in the *UV Editor* to hide the checkers.
+
+<br>
+
+![Seam / cut](https://user-images.githubusercontent.com/36719180/92546409-8ea6a400-f2a6-11ea-972e-096d110ceb4b.png)
 
 <br>
 
