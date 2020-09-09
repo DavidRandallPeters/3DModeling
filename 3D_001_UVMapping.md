@@ -497,7 +497,7 @@ This section simply repeats previous steps in order to get the rest of the model
 
 <br><br>
 
-So I'm now satisfied that all *UV Shells* have been created and unfolded ina way that allows direct projection of a texture map onto all faces.
+So I'm now satisfied that all *UV Shells* have been created and unfolded in a way that allows direct projection of a texture map onto all faces.
 
 We just have a few final steps to take before this UV map will be ready for export.
 
