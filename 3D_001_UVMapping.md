@@ -603,9 +603,9 @@ Here's my final UV layout:
 
 <br>
 
-I've given low-priority to: the asset's 'metal' base and the light on top - as it'll be emissive - meaning that no texture will be visible - just light.
+I've given **low-priority** to: the asset's 'metal' base and the light on top - as it'll be emissive - meaning that no texture will be visible - just light.
 
-I've given higher priority to: the 'painted' band around the outside, the top 'metal' section and the top 'painted' section. 
+I've given **high priority** to: the 'painted' band around the outside, the top 'metal' section and the top 'painted' section. 
 
 <br>
 
