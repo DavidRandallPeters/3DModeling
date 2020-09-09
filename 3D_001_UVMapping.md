@@ -5,6 +5,7 @@
 
 
 Notes prepared by David Peters
+
 Using Maya 2020
 
 ---
