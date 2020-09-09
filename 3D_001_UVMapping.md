@@ -188,7 +188,7 @@ By applying this checker to our model, we'll simultaneously learn how to apply a
 
 <br>
 
-![Material File Attributes](https://user-images.githubusercontent.com/36719180/92542013-bc3a2000-f29b-11ea-853d-b37a47ea345a.png)
+![Material File Attributes](https://user-images.githubusercontent.com/36719180/92542071-e986ce00-f29b-11ea-8762-53185d94a6d9.png)
 
 <br>
 
