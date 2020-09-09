@@ -101,7 +101,7 @@ We need some information to work with - so we'll generate some initial UV data t
 
 We now have some data to begin working with.
 
-Note that Maya has filled up all available real-estate within the UV grid's first quadrant.
+Note that Maya has filled up all available real-estate within the UV grid's first quadrant (known as a *U-Dimension* or *U-DIM*).
 
 That is to say that all available space - from 0.0, 0.0 (bottom-left) to 1.0, 1.0 (top-right) has been utilised. 
 
@@ -328,7 +328,7 @@ We're essentially trying to achieve the following:
 <br>
 
 - Establish the neatest, cleanest way of unfolding our 3D model
-- Position its shell (or shells) in a way that optimises use of that 1x1 UV quadrant mentioned earlier - as wasted space is tantamount to wasted resolution and ultimately wasted resources in-engine
+- Position its shell (or shells) in a way that optimises use of that 1x1 UV quadrant (*U-DIM*) mentioned earlier - as wasted space is tantamount to wasted resolution and ultimately wasted resources in-engine
 - Doing these things in a way that results in zero texture distortion
 
 <br><br>
@@ -405,7 +405,7 @@ The cuts are now made.. next; we'll unfold those faces so that all faces can be 
 <br><br>
 
 
-## 001.087 | Unfolding
+## 001.008 | Unfolding
 
 <br>
 
@@ -428,8 +428,26 @@ You can see in this image that the checker texture has issues.. the pattern does
 
 That's okay! This particular workflow doesn't really care about that right now - Substance Painter will take care of that for us.
 
-The main thing, right now, is that there's no distortion or stretching of the texture - which there's not. This is a good projection.
+The main thing, right now, is that there's no distortion or stretching of the texture - which there's not.
 
+This is a good projection.
+
+<br>
+
+- To make the rest of your model visable again (having isolated the cap) simply hit **Ctrl+1** again
+
+<br>
+
+So. That's the majority of the workflow covered. There's still a little more to it. For example, there are optimisation tools that we'll look at and we need to pack our entire map inside this first U-DIM.
+
+For now, I'll briefly demonstrate my approach to the rest of this landmine model - then we'll wrap it up and export.
+
+<br><br>
+
+
+## 001.009 | Unfolding
+
+<br>
 
 
 
