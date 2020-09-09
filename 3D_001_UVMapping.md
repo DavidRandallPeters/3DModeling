@@ -264,7 +264,16 @@ Notice that the seam is reflected both in the viewport and in the UV Editor.
 
 <br>
 
-- 
+- By **Right-clicking** in the UV editor (and holding) and choosing **UV Shell**, you can select separate regions of your UV map
+- By using the usual **Move** tool, you can reposition those regions
+
+<br>
+
+![UV Shell](https://user-images.githubusercontent.com/36719180/92547336-c57db980-f2a8-11ea-990d-e33a3dd97ef2.png)
+
+<br>
+
+- gdsg
 
 
 
