@@ -243,6 +243,10 @@ Now, we'll make a start using the tools that will allow us to make a neat UV map
 
 ![Textured](https://user-images.githubusercontent.com/36719180/92542619-58185b80-f29d-11ea-954c-6b8cc16d96d7.png)
 
+<br><br>
+
+### Cutting seams
+
 <br>
 
 - In **Edge** select mode, select any edge (or edges) in your model
@@ -273,7 +277,13 @@ Notice that the seam is reflected both in the viewport and in the UV Editor.
 
 <br>
 
-- gdsg
+<br><br>
+
+### Sewing seams
+
+<br>
+
+- By reselecting any edges that you just cut, and hitting **Sew** in the **UV Toolkit**, you can merge UV Shells back together
 
 
 
