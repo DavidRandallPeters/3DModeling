@@ -160,6 +160,8 @@ By applying this checker to our model, we'll simultaneously learn how to apply a
 
 ![Hypershade](https://user-images.githubusercontent.com/36719180/92539920-1b496600-f297-11ea-9ba4-63d731f97e5c.png)
 
+<br>
+
 - In the **Create** panel within the *Hypershade* window, choose **Arnold » Shader » Surface » aiStandardSurface** 
 > This creates a new shader that we'll use to apply textures with
 - In the **Property Editor** panel within the *Hypershade* window, give the material a name: aiCheckerPattern
@@ -167,7 +169,11 @@ By applying this checker to our model, we'll simultaneously learn how to apply a
 > Adding the ai prefix (ai signifying Arnold materials) is a general good habit to get into. It helps us identify the types of materials we've created at a glance
 - In the **Base** section of the **Property Editor** panel, locate **Color** and click the checkered icon to its right:
 
+<br>
+
 ![Base Color](https://user-images.githubusercontent.com/36719180/92541777-1981a180-f29b-11ea-941b-2251c534255c.png)
+
+<br>
 
 - From the list that pops up, choose **File**
 - In the **Property Editor** panel, hit the folder icon next to **Image Name**
