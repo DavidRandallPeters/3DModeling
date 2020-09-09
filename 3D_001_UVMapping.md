@@ -424,6 +424,12 @@ Now that we've made those cuts, it should be ready to unfold.
 
 <br>
 
+You can see in this image that the checker texture has issues.. the pattern doesn't line up as we'd want it to.
+
+That's okay! This particular workflow doesn't really care about that right now - Substance Painter will take care of that for us.
+
+The main thing, right now, is that there's no distortion or stretching of the texture - which there's not. This is a good projection.
+
 
 
 
