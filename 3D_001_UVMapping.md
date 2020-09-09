@@ -302,7 +302,11 @@ As a general rule, when establishing where to put a seam and subsequently making
 
 Important areas are likely to be regions of your model that will be seen the most - or areas that have no natural edges or corners (eg. the middle of a large surface).
 
-Simply put; you should attempt to hide your seams wherever practical.
+Simply put:
+
+**You should attempt to hide your seams wherever practical.**
+
+<br>
 
 This is for two main reaons:
 
