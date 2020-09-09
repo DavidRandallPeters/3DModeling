@@ -482,7 +482,7 @@ This section simply repeats previous steps in order to get the rest of the model
 
 <br>
 
-
+![FiveShells](https://user-images.githubusercontent.com/36719180/92568972-0fc86000-f2d4-11ea-9d12-51143c109635.png)
 
 <br>
 
