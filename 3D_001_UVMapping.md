@@ -22,7 +22,7 @@ While the principals covered here are indeed generally applicable, we'll be taki
 The path we'll take is as follows:
 
 - UV Mapping within Maya: You can use models of your own - or download the example 3D models provided
-- Exporting these models and UVs for use within Substance Painter
+- Exporting these models (with their UV's) for use within Substance Painter
 - Baking high-poly data onto a low-poly model
 - Applying colours and textures to your model
 - Exporting from Subtance
@@ -607,29 +607,15 @@ I've given **low-priority** to: the asset's 'metal' base and the light on top - 
 
 I've given **high priority** to: the 'painted' band around the outside, the top 'metal' section and the top 'painted' section. 
 
-<br>
+<br><br>
 
+That's it for now!
 
+Next time, we'll get export our models, get them into Substance Painter and get into the fun stuff.
 
+<br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Continued in 3D_002_Substance.md
 
 
 
