@@ -531,6 +531,8 @@ This is an improvement but, in this case, it didn't make a whole heap of differe
 
 > This is something like a Photoshop brush. To use it, you click and 'paint' over areas that you think need further optimisation.
 
+<br>
+
 - Brush around the *UV Shell* until you stop noticing any further change to the Shell's shape
 
 <br>
@@ -539,7 +541,20 @@ This is an improvement but, in this case, it didn't make a whole heap of differe
 
 <br>
 
-The result is pictured above. 
+The result is pictured above. This is pretty much perfect.
+
+<br>
+
+- Repeat these optimisation steps for all *UV Shells*
+
+<br><br>
+
+
+## 001.011 | Packing
+
+<br>
+
+
 
 
 
