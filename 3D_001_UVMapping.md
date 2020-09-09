@@ -149,13 +149,17 @@ You should now see a checker grid projected onto your model like this:
 
 <br>
 
-The image you see here is easier on the eyes and just lends itself a little better to thetask at hand.
+The image you see here is easier on the eyes and just lends itself a little better to the task at hand.
 
 By applying this checker to our model, we'll simultaneously learn how to apply a texture to a model in Maya (if this isn't a skill you already have).
 
 <br>
 
 - Download the above checker image to a folder called **images** within your Maya scene folder - if you're using the provided Maya scene, the folder will have the extension: *3DAssetPipeline » images*
+- In Maya, open the **Hypershader** - the easiest way to do this is via the 'teal shader' button in the main toolbar (top) it looks like this:
+
+
+
 
 
 
