@@ -16,6 +16,7 @@ Notes prepared by David Peters
 
 ### 3D Game Art Pipeline | Reference
 
+- [UV Mapping - complete basics](https://www.youtube.com/watch?v=dj0uXid9oGo&t=476s&ab_channel=FlippedNormals): FlippedNormals demonstrate the basics
 - [Tips for improving your UV mapping workflow](http://www.paulhpaulino.com/6-tips-to-improve-your-uv-mapping-workflow/): 6 tips from texture painter, Paul H. Paulino
 - [FlippedNormals - (YouTube channel)](https://www.youtube.com/c/FlippedNormals/videos): Tutorials in Substance, ZBrush, Blender, Maya, Marvelous Designer, retopo etc. 
 - [Daniel Thiger aka. 'Dete' - (Artstation)](https://www.artstation.com/dete): Material designer / Substance enthusiast
