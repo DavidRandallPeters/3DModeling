@@ -196,6 +196,14 @@ By applying this checker to our model, we'll simultaneously learn how to apply a
 - Ensure all components are selected in the main viewport
 - **Right-click** and hold (with the cursor above an object in the viewport) and choose **Assign Existing Material » aiCheckerPattern
 
+<br>
+
+![Checker applied](https://user-images.githubusercontent.com/36719180/92542439-e0e2c780-f29c-11ea-9562-6fae738bad1c.png)
+
+<br>
+
+- 
+
 
 
 
