@@ -312,8 +312,9 @@ Simply put:
 
 This is for two main reaons:
 
-- Seams can become visible when applying textures - though, this is becoming less and less and issue as software such as Substance Painter becomes more intuitive and versatile.
-- In a production environment, someone else will likely be creating textures for UV maps that you've created. You therefore want to make it as clear as possible what's what and generally make their job easier.
+1. Seams can become visible when applying textures - though, this is becoming less and less and issue as software such as Substance Painter becomes more intuitive and versatile.
+
+2. In a production environment, someone else will likely be creating textures for UV maps that you've created. You therefore want to make it as clear as possible what's what and generally make their job easier.
 
 <br><br>
 
