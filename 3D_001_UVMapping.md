@@ -156,8 +156,16 @@ By applying this checker to our model, we'll simultaneously learn how to apply a
 <br>
 
 - Download the above checker image to a folder called **images** within your Maya scene folder - if you're using the provided Maya scene, the folder will have the extension: *3DAssetPipeline » images*
-- In Maya, open the **Hypershader** - the easiest way to do this is via the 'teal shader' button in the main toolbar (top) it looks like this:
+- In Maya, open the **Hypershade window** - the easiest way to do this is via the 'teal shader' button in the main toolbar (top) it looks like this:
 
+![Hypershade](https://user-images.githubusercontent.com/36719180/92539920-1b496600-f297-11ea-9ba4-63d731f97e5c.png)
+
+- In the **Create** panel within the *Hypershade* window, choose **Arnold » Shader » test002Surface » aiStandardSurface** 
+> this creates a newshader that we'll use to apply textures with
+- In the **Property Editor** panel within the *Hypershade* window, give the material a name: aiCheckerPattern
+> This goes in the aiStandardSurface field
+> Adding the ai prefix (ai signifies Arnold materials) is a general good habit to get into. It helps us identify the types of materials we've created at a glance
+- asfa
 
 
 
