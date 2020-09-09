@@ -170,7 +170,7 @@ By applying this checker to our model, we'll simultaneously learn how to apply a
 - In the **Property Editor** panel within the *Hypershade* window, give the material a name: aiCheckerPattern
 > This goes in the aiStandardSurface field
 
-> Adding the ai prefix (ai signifying Arnold materials) is a general good habit to get into. It helps us identify the types of materials we've created at a glance
+> Adding the ai prefix ('ai', signifying Arnold materials) is a general good habit to get into. It helps us identify the types of materials we've created at a glance
 
 <br>
 
