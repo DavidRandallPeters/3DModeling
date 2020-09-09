@@ -298,7 +298,7 @@ I suggest you give that a try now to observe its effects.
 
 <br>
 
-As a general rule, when establishing where to put a seam and subsequently making cuts, you want to put as few cuts and seams in important areas as possible. 
+As a general rule, when establishing where to put a seam and subsequently making cuts, you'll want to *put as few cuts and seams in important areas as possible.* 
 
 Important areas are likely to be regions of your model that will be seen the most - or areas that have no natural edges or corners (eg. the middle of a large surface).
 
