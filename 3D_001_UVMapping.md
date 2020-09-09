@@ -277,6 +277,9 @@ Notice that the seam is reflected both in the viewport and in the UV Editor.
 
 <br>
 
+- In the main viewport, hit **Textured** once more to show the checkers
+- In the **UV Editor**, move UV Shells around and observe what happens in the main viewport to get a feel for what's going on
+
 <br><br>
 
 ### Sewing seams
@@ -284,6 +287,10 @@ Notice that the seam is reflected both in the viewport and in the UV Editor.
 <br>
 
 - By reselecting any edges that you just cut, and hitting **Sew** in the **UV Toolkit**, you can merge UV Shells back together
+
+>Note that, if you've moved Shells away from each other and you then sew, it bridges the gap between the two - irrespective of position. This can mean that regions in the UV editor can become distorted. This is just something you'll need to look out for. You may find you need to recreate projections if things get too messy.
+
+
 
 
 
