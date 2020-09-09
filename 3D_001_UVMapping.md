@@ -409,9 +409,21 @@ The cuts are now made.. next; we'll unfold those faces so that all faces can be 
 
 <br>
 
-Our texture regions are currently doubled-up / layered on top of themselves. That's why we see a reversed texture when we orbit around behind our model.
+To demonstrate this, I'll continue with the 'cap' object from the previous section.
 
-We need this UV map to be 'singly-layered' as it were - and that will require that, after we've cut our seams, we *unfold* the shells.
+Now that we've made those cuts, it should be ready to unfold.
+
+<br>
+
+- In the **UV Toolkit**, expand the **Unfold** section
+- With the 'cap' object still selected, hit **Unfold**
+
+<br>
+
+![Cap unfolded](https://user-images.githubusercontent.com/36719180/92552979-fa443d80-f2b5-11ea-9d96-36767934e49f.png)
+
+<br>
+
 
 
 
