@@ -298,7 +298,7 @@ I suggest you give that a try now to observe its effects.
 
 <br>
 
-As a general rule, when establishing where to put a seam and subsequently making cuts, you want to put as few cuts and seams in important areas. 
+As a general rule, when establishing where to put a seam and subsequently making cuts, you want to put as few cuts and seams in important areas as possible. 
 
 Important areas are likely to be regions of your model that will be seen the most - or areas that have no natural edges or corners (eg. the middle of a large surface).
 
@@ -309,11 +309,35 @@ This is for two main reaons:
 - Seams can become visible when applying textures - though, this is becoming less and less and issue as software such as Substance Painter becomes more intuitive and versatile.
 - In a production environment, someone else will likely be creating textures for UV maps that you've created. You therefore want to make it as clear as possible what's what and generally make their job easier.
 
+<br><br>
+
+
+## 001.006 | The objective
+
 <br>
 
+We're essentially trying to achieve the following:
+
+<br>
+
+- Establish the neatest, cleanest way of unfolding our 3D model
+- Position its shell (or shells) in a way that optimises use of that 1x1 UV quadrant mentioned earlier - as wasted space is tantamount to wasted resolution and ultimately wasted resources in-engine
+- Doing these things in a way that results in zero texture distortion
+
+<br><br>
 
 
+## 001.007 | Unfolding
 
+<br>
+
+The best way to get comfortable with this process is to try it out - which we'll do very shortly.
+
+But first, a couple more tips and tricks to help you along your way.
+
+Our texture regions are currently doubled-up / layered on top of themselves. That's why we see a reversed texture when we orbit around behind our model.
+
+We need this UV map to be 'singly-layered' as it were - and that will require that, after we've cut our seams, we *unfold* the shells.
 
 
 
