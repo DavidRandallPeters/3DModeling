@@ -445,7 +445,25 @@ For now, I'll briefly demonstrate my approach to the rest of this landmine model
 <br><br>
 
 
-## 001.009 | Unfolding
+## 001.009 | Finishing the map contents
+
+<br>
+
+This section simply repeats previous steps in order to get the rest of the model mapped.
+
+<br>
+
+- First of all, I'm setting the *Smooth Preview mode* to **1** (ie. not smoothed) - this way I can more easily find my intended joins in the object
+- Here's a quick colour-coding exercise to indicate where I think various textures will go when we get to Substance Painter:
+
+<br>
+
+![ColourCode](https://user-images.githubusercontent.com/36719180/92558412-92e0ba80-f2c2-11ea-9f58-f510cd1bcdcc.png)
+
+<br><br>
+
+
+## 001.010 | Unfolding
 
 <br>
 
