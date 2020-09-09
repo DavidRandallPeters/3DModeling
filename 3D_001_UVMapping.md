@@ -152,9 +152,9 @@ You should now see a checker grid projected onto your model like this:
 
 <br>
 
-The image you see here is easier on the eyes and just lends itself a little better to the task at hand.
+Okay, the image you see here is also dazzling. But it's not white (so it's easier on the eyes) and the alphanumerical data does come in handy. 
 
-By applying this checker to our model, we'll simultaneously learn how to apply a texture to a model in Maya (if this isn't a skill you already have).
+Also, by applying this checker pattern to our model, we'll simultaneously learn how to apply a texture to a model in Maya (assuming this isn't a skill you already have).
 
 <br>
 
