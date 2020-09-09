@@ -121,7 +121,7 @@ We'll talk more about this soon.
 
 It's worthwhile working with a checker guide so that you can track the distortion of the 2D map in the UV editor.
 
-Maya provides a checker pattern by default. You can follow these steps to apply it - however, we'll shortly apply our own, as Maya's one is a little hard on the eyes.
+Maya provides a checker pattern by default. You can follow these steps to apply it - however, we'll shortly apply our own, as Maya's one is a little hard on the eyes - it's just a bit shit, really.
 
 So, you can skip these steps and go directly to *Applying a custom checker.*
 
