@@ -313,7 +313,7 @@ Simply put:
 
 <br>
 
-This is for two main reaons:
+This is for two main reasons:
 
 1. Seams can become visible when applying textures - though, this is becoming less and less and issue as software such as Substance Painter becomes more intuitive and versatile.
 
