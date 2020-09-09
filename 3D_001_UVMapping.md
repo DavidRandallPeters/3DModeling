@@ -588,7 +588,29 @@ I'll need to keep this in mind and consider carefully as I pack this up:
 
 ### Final steps
 
-- ssdg
+- Hit **Ctrl+1** to bring back any hidden objects (having been in isolation mode)
+- You may wish to *Combine* objects that will share this UV Map so that you can see all Shells at once and avoid overlaps
+- Select *UV Shells* and scale them using the **Scale** tool (hotkey: **R**)
+- Contain all Shells within the U-DIM that spans 0.0, 0.0 (bottom-left) to 1.0, 1.0 (top-right)
+
+<br>
+
+Here's my final UV layout:
+
+<br>
+
+![Final UV layout](https://user-images.githubusercontent.com/36719180/92581360-b49e6980-f2e3-11ea-8ff0-f437d9a097a6.png)
+
+<br>
+
+I've given low-priority to: the asset's 'metal' base and the light on top - as it'll be emissive - meaning that no texture will be visible - just light.
+
+I've given higher priority to: the 'painted' band around the outside, the top 'metal' section and the top 'painted' section. 
+
+<br>
+
+
+
 
 
 
