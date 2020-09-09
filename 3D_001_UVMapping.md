@@ -204,9 +204,9 @@ By applying this checker to our model, we'll simultaneously learn how to apply a
 
 We now have an ideal texture applied to our model components for the purpose of UV mapping.
 
->If you don't see the texture applied to your model, make sure you have **Textured** switched on in the viewport toolbar:
-
 <br>
+
+>If you don't see the texture applied to your model, make sure you have **Textured** switched on in the viewport toolbar:
 
 ![Textured](https://user-images.githubusercontent.com/36719180/92542619-58185b80-f29d-11ea-954c-6b8cc16d96d7.png)
 
