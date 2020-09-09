@@ -204,6 +204,8 @@ By applying this checker to our model, we'll simultaneously learn how to apply a
 
 We now have an ideal texture applied to our model components for the purpose of UV mapping.
 
+As you orbit your model, you'll almost certainly see distrotion of the checker grid we've just added. This is exactly what *a)* we're looking for and *b)* will seek to solve in the following steps.
+
 <br>
 
 >If you don't see the texture applied to your model, make sure you have **Textured** switched on in the viewport toolbar:
@@ -227,9 +229,23 @@ In this section, you may wish to alter the **Repeat UV** parameters to, say, *5.
 <br><br>
 
 
-## 001.006 | A
+## 001.006 | Selection
 
 <br>
+
+afasff
+
+<br>
+
+- Make the checker texture invisible for a moment by switching off **Textured** in the main viewport.
+
+<br>
+
+![Textured](https://user-images.githubusercontent.com/36719180/92542619-58185b80-f29d-11ea-954c-6b8cc16d96d7.png)
+
+<br>
+
+- 
 
 
 
