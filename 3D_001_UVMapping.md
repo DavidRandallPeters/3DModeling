@@ -387,7 +387,17 @@ I'm going to isolate the object from the body of the mine to make things clearer
 
 We now have a new projection that occupies the entire UV quadrant.
 
+But we still have faces that are hidden beneath that outer-most rim.. We need to make slices that allow those faces to fold 90° upward, as it were..
 
+- In **Edge** mode, select the edges that need cutting in order to make that fold..
+
+![Fresh cuts](https://user-images.githubusercontent.com/36719180/92552821-9d488780-f2b5-11ea-8e62-b530c0dfc667.png)
+
+- When you're satisfied that you've found the most logical approach, hit **Cut** in the **UV Toolkit**
+
+<br>
+
+The cuts are now made.. next; we'll unfold those faces so that all faces can be seen in one top-down projection.
 
 <br><br>
 
