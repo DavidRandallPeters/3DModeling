@@ -34,6 +34,8 @@ A normal map 'weighs' only as much as a 2D texture, but when read by 3D software
 
 <br>
 
-The mesh on the right in this picture is the same as the mesh on the left - that is, they both have the same number of polys - but a high-detail normal map has been projected onto its texture. By precaulclating where light should hit and shadows be cast, it gives the appearance of a mesh with much more detail.
+The mesh on the right in this picture is the same as the mesh on the left - (that is, they both have the same number of polys) - but a highly detailed mesh has been projected onto the mesh on the right as a normal map. By precaulclating where light should hit and shadows be cast, it gives the appearance of a mesh with much more detail.
 
 <br><br>
+
+---
