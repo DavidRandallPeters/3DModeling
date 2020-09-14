@@ -35,6 +35,8 @@ The path we'll take goes somethin' like this:
 
 <br><br>
 
+---
+
 ## 001.002 | What is a UV Map?
 
 <br>
@@ -51,6 +53,7 @@ The letters **U** and **V** denote the axes of the 2D texture - because *X, Y,* 
 
 <br><br>
 
+---
 
 ## 001.003 | Getting started
 
@@ -116,6 +119,7 @@ We'll talk more about this soon.
 
 <br><br>
 
+---
 
 ## 001.004 | Applying a default checker [optional]
 
@@ -144,6 +148,8 @@ You should now see a checker grid projected onto your model like this:
 ![Default checker](https://user-images.githubusercontent.com/36719180/92537915-71b3a600-f291-11ea-8f81-c856a47638fc.png)
 
 <br><br>
+
+---
 
 
 ## 001.005 | Applying a custom checker
@@ -233,6 +239,7 @@ In this section, you may wish to alter the **Repeat UV** parameters to, say, *5.
 
 <br><br>
 
+---
 
 ## 001.006 | Cutting and Sewing
 
@@ -323,6 +330,7 @@ This is for two main reasons:
 
 <br><br>
 
+---
 
 ## 001.006 | The objective
 
@@ -338,6 +346,7 @@ We're essentially trying to achieve the following:
 
 <br><br>
 
+---
 
 ## 001.007 | Alternate projection methods
 
@@ -409,6 +418,7 @@ The cuts are now made.. next; we'll unfold those faces so that all faces can be 
 
 <br><br>
 
+---
 
 ## 001.008 | Unfolding
 
@@ -449,6 +459,7 @@ For now, I'll briefly demonstrate my approach to the rest of this landmine model
 
 <br><br>
 
+---
 
 ## 001.009 | Finishing the map contents
 
@@ -505,6 +516,7 @@ We just have a few final steps to take before this UV map will be ready for expo
 
 <br><br>
 
+---
 
 ## 001.010 | Optimisation
 
@@ -554,6 +566,7 @@ The result is pictured above. This is pretty much perfect.
 
 <br><br>
 
+---
 
 ## 001.011 | Packing + Layout
 
