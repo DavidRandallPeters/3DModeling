@@ -79,12 +79,23 @@ I've provided a new Maya scene that contains both high-poly and low-poly iterati
 <br>
 
 - Download the new scene now and open it in Maya
+- Ensure that the **Channel Box/Layer Editor** tab is active
 
 <br><br>
 
-You're presented with the high-poly version of our mesh. This version has:
+You're presented with the *high-poly* version of the landmine model.
 
-> - afasf
+<br>
+
+![High-poly landmine](https://user-images.githubusercontent.com/36719180/93149242-f0a15680-f749-11ea-970a-69d353621a57.png)
+
+<br>
+
+- Select the model and explore its detail - there's a dent in the shell, joins and depressions
+- Open the UV Editor and notice that it's a mess in there! This is fine. We're only interested in the low-poly model's UV map
+- In the **Layers** section (at the bottom of the **Channel Box/Layer Editor**), hit the **V** to the right of **HighPoly** layer to make that layer and its contents invisible
+- Do the inverse for the **LowPoly** layer - making it visible
+- Notice that the low-poly and high-poly meshes share the exact same world-space - *this is important for accurate projection!*
 
 
 
