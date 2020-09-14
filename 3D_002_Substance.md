@@ -10,7 +10,31 @@ Using Maya 2020
 
 ---
 
-## 002.001 | Normal maps
+## 002.001 | Overview of this tutorial
+
+<br>
+
+The process we'll undergo follows.
+
+Note that this is an express rendition that will get us quickly into the fun stuff and out the other side.
+
+There are additional tips and tricks that we'll get into another day.
+
+<br>
+
+1. Begin in Maya - prepare both high- and low-poly meshes for export and baking
+2. Export models as .fbx
+3. Fire up Substance and import low-poly model
+4. Bake all maps using the high-poly model as a source
+5. Apply materials
+6. Add an emissive channel for glowing stuff
+7. Add custom graphics in Photoshop
+
+<br><br>
+
+---
+
+## 002.002 | Normal maps
 
 <br>
 
@@ -44,7 +68,11 @@ The mesh on the right in this picture is the same as the mesh on the left - (tha
 
 <br>
 
-I'll continue using the landmine model from last time. For the purposes of this tutorial, I suggest you do the same - regardless of whether or not you have your own model to work with. Once you have the basics down, you can go back and try it out with your own model.
+I'll continue using the landmine model from last time.
+
+For the purposes of this tutorial, I suggest you do the same - *regardless of whether or not you have your own model to work with.*
+
+Once you have the basics down, you can go back and try it out with your own model.
 
 I've provided a new Maya scene that contains both high-poly and low-poly iterations of the landmine.
 
@@ -53,6 +81,10 @@ I've provided a new Maya scene that contains both high-poly and low-poly iterati
 - Download the new scene now and open it in Maya
 
 <br><br>
+
+You're presented with the high-poly version of our mesh. This version has:
+
+> - afasf
 
 
 
