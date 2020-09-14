@@ -39,3 +39,11 @@ The mesh on the right in this picture is the same as the mesh on the left - (tha
 <br><br>
 
 ---
+
+## 002.002 | High-poly model
+
+<br>
+
+I'll continue using the landmine model from last time.
+
+
