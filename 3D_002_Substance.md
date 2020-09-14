@@ -28,12 +28,12 @@ Substance Painter has the capability of *'baking'* the detail of a high-poly mes
 
 A normal map 'weighs' only as much as a 2D texture, but when read by 3D software and indeed game engines, can massively improve the fidelity of a low-poly model.
 
-<br><br>
-
-The mesh on the right in this picture is the same as the mesh on the left - that is, they both have the same number of polys - but a high-detail normal map has been projected onto its texture. By precaulclating where light should hit and shadows be cast, it gives the appearance of a mesh with much more detail.
-
 <br>
 
 ![Normal example](https://user-images.githubusercontent.com/36719180/93049109-71157800-f6b4-11ea-8ab4-2756cc63a41c.png)
+
+<br>
+
+The mesh on the right in this picture is the same as the mesh on the left - that is, they both have the same number of polys - but a high-detail normal map has been projected onto its texture. By precaulclating where light should hit and shadows be cast, it gives the appearance of a mesh with much more detail.
 
 <br><br>
