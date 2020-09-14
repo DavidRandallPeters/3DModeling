@@ -92,10 +92,17 @@ You're presented with the *high-poly* version of the landmine model.
 <br>
 
 - Select the model and explore its detail - there's a dent in the shell, joins and depressions
-- Open the UV Editor and notice that it's a mess in there! This is fine. We're only interested in the low-poly model's UV map
+- Open the **UV Edito**r and notice that it's a mess in there! This is fine. We're only interested in the low-poly model's UV map
 - In the **Layers** section (at the bottom of the **Channel Box/Layer Editor**), hit the **V** to the right of **HighPoly** layer to make that layer and its contents invisible
+
+<br>
+
+![Layers](https://user-images.githubusercontent.com/36719180/93149451-7c1ae780-f74a-11ea-9501-f323680b56e5.png)
+
+<br>
+
 - Do the inverse for the **LowPoly** layer - making it visible
-- Notice that the low-poly and high-poly meshes share the exact same world-space - *this is important for accurate projection!*
+- Notice that the low-poly and high-poly meshes share the exact same world-space - *this is very important for accurate projection!*
 
 
 
