@@ -44,7 +44,18 @@ The mesh on the right in this picture is the same as the mesh on the left - (tha
 
 <br>
 
-I'll continue using the landmine model from last time. You're welcome to do the same. I've provided a new Maya scene that contains both high-poly and a low-poly iterations of this for the purposes of this tutorial.
+I'll continue using the landmine model from last time. For the purposes of this tutorial, I suggest you do the same - regardless of whether or not you have your own model to work with. Once you have the basics down, you can go back and try it out with your own model.
+
+I've provided a new Maya scene that contains both high-poly and low-poly iterations of the landmine.
+
+<br>
+
+- Download the new scene now and open it in Maya
+
+<br><br>
+
+
+
 
 
 
