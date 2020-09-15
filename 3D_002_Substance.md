@@ -408,7 +408,7 @@ There's a now-redundant layer on the bottom of the stack called *Layer 1*.
 
 <br><br>
 
-### Subsequent layers
+### Smart Materials
 
 <br>
 
@@ -478,7 +478,23 @@ Let's dial that back some.
 
 <br>
 
-- In the **PROPERTIES - FILL** panel, 
+- In the **PROPERTIES - FILL** panel, fiddle around with parameters until you like what you see - the main parameter I'm interested in is **Balance** - I'm dialling that back
+
+<br>
+
+Things are looking somewhat less garish.
+
+<br>
+
+![Better paint](https://user-images.githubusercontent.com/36719180/93163415-37ec0f00-f76b-11ea-8255-c1391bf09487.png)
+
+<br><br>
+
+### Masking
+
+<br>
+
+
 
 
 
