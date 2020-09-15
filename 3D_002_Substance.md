@@ -101,7 +101,7 @@ I've provided a new Maya scene that contains both high-poly and low-poly iterati
 - Download the new scene now and open it in Maya
 - Ensure that the **Channel Box/Layer Editor** tab is active
 
-<br><br>
+<br>
 
 You're presented with the *high-poly* version of the landmine model.
 
