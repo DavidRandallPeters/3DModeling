@@ -494,6 +494,37 @@ Things are looking somewhat less garish.
 
 <br>
 
+In order to expose that lovely damaged iron that we used as a base, we need to employ masks.
+
+Masks allow us to block regions of a fill and allow others through.
+
+We'll block this yellow paint where we want to see metal.
+
+<br>
+
+- In the **LAYERS** panel, hit the folder icon next to **Steel Painted Scraped Green** to minimise its contents
+
+- Double-click the words **Steel Painted Scraped Green** and rename it to something like *Yellow Paint*
+
+- Still in the**LAYERS** panel, hit the **Add mask** button (second from the left)
+
+- Choose **Add black mask** - the paint disappears
+
+> As you see, BLACK blocks the layer - while WHITE allows it through.
+
+- The cleanest way to do this next bit is by using the **Polygon Fill** tool - select it from the main tool bar on the far left of the screen
+
+> You should now see your mesh detail projected on the model in the viewport
+
+- In the **PROPERTIES - POLYGON FILL** panel, ensure that the fill **Color** is set to full **white** (drag the slider all the way to the right)
+
+> You can absolutely start working directly on your model - but the faster, less fiddly method is by working with your UV map
+
+- In the **UV Map**, click in any mesh cell that you want to become 'painted'
+
+> You can totally click to your heart's content - but we can nail this in one fell swoop
+
+- In the **UV Map**, drag a selection marquee across the long rectangular strips that represent the band around the landmine
 
 
 
