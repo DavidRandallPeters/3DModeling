@@ -1,7 +1,7 @@
 # 3D Modeling for Game | 002 | Substance
 
 
-![Banner](https://user-images.githubusercontent.com/36719180/93180028-a5f3fe80-f78a-11ea-8817-ffce845b05ce.png)
+![Atom Can](https://user-images.githubusercontent.com/36719180/93180373-29155480-f78b-11ea-9d91-59c89a6adb45.png)
 
 
 Notes prepared by David Peters
@@ -778,6 +778,8 @@ Here's how:
 
 Blah
 
+
+![Banner](https://user-images.githubusercontent.com/36719180/93180028-a5f3fe80-f78a-11ea-8817-ffce845b05ce.png)
 
 
 
