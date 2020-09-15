@@ -322,12 +322,15 @@ Substance will run a bunch of calculations - hopefully resulting in a yummy proj
 
 <br>
 
-To see for ourselves that this is more than just lines on a surface, we'll rotate the sun's position in the sky and watch as the shadows are cast appropriately - despite there being no additional mesh detail..
+To see for ourselves that this is more than just lines on a surface, we'll rotate the sun's position in the sky and watch as the shadows are cast appropriately - despite there being *no additional mesh detail..*
 
 <br>
 
-- With your mouse cursor in the main viewport, hold **Shift** and the **Right mouse button** and drag from side-to-side
-> Pay close attention to the depressions in the top of the shell.. RIGHT???
+- With your mouse cursor in the main viewport, hold **Shift** + **Right mouse button** and drag from side-to-side
+> Pay close attention to the depressions in the top of the shell..
+<br>
+
+RIGHT???
 
 <br><br>
 
