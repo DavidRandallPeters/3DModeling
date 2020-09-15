@@ -546,6 +546,47 @@ We'll block this yellow paint where we want to see metal.
 
 We all love glowy stuff. Amiright?
 
+Let's add glowy stuff.
+
+To get this up and running, we need to first add a channel that's dedicated to emission.
+
+<br>
+
+- Tab over to **TEXTURE SET SETTINGS** (next to the *LAYERS** panel)
+
+- Locate the **CHANNELS** section
+
+- Hit the lil' **+** button on the right-hand side of this section
+
+- Choose **Emissive** from the list that appears
+
+- Tab back over to the **LAYERS** panel
+
+- Hit the **Add a fill layer** button (fourth from the left at the top of this panel) - this adds a white fill layer to the top of the stack
+
+- In the **PROPERTIES - FILL** panel, locate the **MATERIAL** section
+
+> Notice that all channels are enabled - indicated by a blue border
+
+- Switch off all channels except **emiss**
+
+- Scroll down within that same panel and locate the **Emissive** swatch and hit it
+
+- Choose a colour for your glowy stuff
+
+<br>
+
+![Glowy 01](https://user-images.githubusercontent.com/36719180/93165820-31f92c80-f771-11ea-8038-45b6b1e7fce9.png)
+
+<br>
+
+Don't stress that things aren't as glowy as we all want things to be.. we'll get there.
+
+Next, let's mask this layer as we did before.
+
+<br>
+
+- 
 
 
 
