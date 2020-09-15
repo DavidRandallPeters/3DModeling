@@ -249,6 +249,8 @@ The top-half of your screen should look something like this:
 
 <br>
 
+Below that are butt-loads of brushes, alphas, presets and various parameters.
+
 - 
 
 
