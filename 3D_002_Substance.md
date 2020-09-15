@@ -68,7 +68,9 @@ The mesh on the right in this picture is the same as the mesh on the left - (tha
 
 <br>
 
-This break-down assumes that you even desire high-mesh detail to be baked onto a low-poly mesh. This tutorial will still inform you of the Maya » Substance workflow even if you only have the one [low-poly] mesh. That said, I do suggest you follow these instructions in the interests of absorbing the skills.
+This break-down assumes that you even desire high-mesh detail to be baked onto a low-poly mesh. This tutorial will still inform you of the Maya » Substance workflow even if you only have the one [low-poly] mesh.
+
+That said, I do suggest you follow these instructions in the interests of absorbing the skills.
 
 <br>
 
