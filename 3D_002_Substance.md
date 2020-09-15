@@ -647,11 +647,31 @@ But gaddam it's worth it. So let's do it.
 
 ![Glowy glow](https://user-images.githubusercontent.com/36719180/93168850-f0b84b00-f777-11ea-86d5-9d45edfa035e.png)
 
+<br><br>
+
+### Painting with alpha brushes
+
 <br>
 
-- Repeat the steps in the last section for any other glowy bits you wish to add in other colours
+So far, we've only used the *Polygon fill* tool to make specific changes to our materials.
+
+Here, we'll use alpha brushes to add more glowy bits and to apply moreintricate graphics to our landmine.
+
+We'll start by making an emissive fill layer:
 
 <br>
+
+- In the **LAYERS** panel, **Add a fill layer**
+
+- Rename it to *Emissive Green*
+
+- In the **MATERIAL** section of the **PROPERTIES - FILL** panel, switch off all channels except **emiss**
+
+- Still in the **MATERIAL** section of the **PROPERTIES - FILL** panel, choose an initial *green* colour to start with
+
+- In the **LAYERS** panel, add a **black mask** to the **Emissive Green** layer - the green disappears
+
+- In the **SHELF**
 
 
 
