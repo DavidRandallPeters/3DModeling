@@ -99,7 +99,7 @@ I've provided a new Maya scene that contains both high-poly and low-poly iterati
 
 <br>
 
-- Download the new scene now and open it in Maya
+- Download the new scene now and open it in Maya - it's called *LandmineMkII Wk02*
 - Ensure that the **Channel Box/Layer Editor** tab is active
 
 <br>
