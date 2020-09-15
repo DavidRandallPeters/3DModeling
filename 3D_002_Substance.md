@@ -532,8 +532,19 @@ We'll block this yellow paint where we want to see metal.
 
 <br>
 
+- Continue in this way until everything that you'd like 'painted' is indeed 'painted'
 
+<br>
 
+![Painted](https://user-images.githubusercontent.com/36719180/93164930-d3cb4a00-f76e-11ea-8d3b-d1253b40b94f.png)
+
+<br><br>
+
+### Emissive materials
+
+<br>
+
+We all love glowy stuff. Amiright?
 
 
 
