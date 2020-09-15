@@ -76,6 +76,8 @@ Typically, you'll begin with a high-poly model, duplicate it and decimate it (or
 
 That said, there's no reason you can't work in the other direction - adding detail to a low-poly mesh.
 
+<br>
+
 The main things to note are that:
 
 1. There are indeed two versions of the asset
