@@ -139,7 +139,11 @@ You're presented with the *high-poly* version of the landmine model.
 
 <br><br>
 
-### Common / grounded pivots
+---
+
+## 002.003 | Establishing common / grounded pivots
+
+<br>
 
 This next bit isn't for the benfit of Substance but for your chosen game engine (in this case, Unreal).
 
@@ -169,7 +173,7 @@ So. Let's get this skill down:
 
 <br>
 
-- Hold **X** to snap to points, click and drag the *yellow* part of the gizmo until the picot rests at **'origin'** (0,0,0)
+- Hold **X** to snap to points, click and drag the *yellow* part of the gizmo until the pivot rests at **'origin'** (0,0,0)
 
 <br>
 
@@ -180,7 +184,17 @@ So. Let's get this skill down:
 - Again, hit **D** to switch back to normal *move* mode
 - *Repeat* these steps for the **high-poly** mesh
 
+<br>
+
+It should go withoutsaying that When doing this for your own model, ensure you do this for each and every component / object in your asset.
+
 <br><br>
+
+---
+
+## 002.004 | Exporting models from Maya
+
+<br>
 
 
 
