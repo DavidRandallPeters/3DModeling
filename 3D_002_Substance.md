@@ -145,9 +145,9 @@ This next bit isn't for the benfit of Substance but for your chosen game engine 
 
 This is a good habit to get into for two reasons:
 
-> 1. <br> <br> The purposes of assembling complex models (with multiple components) quickly, in-engine. <br> <br> Imagine you have a table asset that has a bunch of beer mugs and swords on it (let's assume that these can't be picked up - this approach will oftentimes be irrelevant for collectible items as they would typically want a centered pivot). These mugs and swords are bound to be separate components (and ultimately separate 3D assets) - not least because the contents of the table may vary from scene to scene (or from table to table). <br> <br> To assist with rapid assembly in-engine, we can establish common pivot points for all items, here in Maya - meaning that we can literally drag and drop each varied (and variable) asset and they'll assemble perfectly without fiddly manipulation. Table/item combinations can then be saved as varied Prefabs (Unity) or Blueprints (Unreal).
+> 1. For the purpose of assembling complex models (with multiple components) quickly, in-engine. <br> <br> Imagine you have a table asset that has a bunch of beer mugs and swords on it (let's assume that these can't be picked up - this approach will oftentimes be irrelevant for collectible items as they would typically want a centered pivot). These mugs and swords are bound to be separate components (and ultimately separate 3D assets) - not least because the contents of the table may vary from scene to scene (or from table to table). <br> <br> To assist with rapid assembly in-engine, we can establish common pivot points for all items, here in Maya - meaning that we can literally drag and drop each varied (and variable) asset and they'll assemble perfectly without fiddly manipulation. Table/item combinations can then be saved as varied Prefabs (Unity) or Blueprints (Unreal).
 
-> 2. When objects are placed or instantiated in-engine, they'll instantiate above the ground-plane - not in the middle of it.
+> 2. So that when objects are placed or instantiated in-engine, they'll instantiate *above* the ground-plane - not in the middle of it.
 
 <br>
 
