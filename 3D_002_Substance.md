@@ -774,7 +774,7 @@ Here's how:
 
 <br><br>
 
-That's it for today. Tune in next time when we export our textures and maps and iset them up within both Unity and Unreal.
+That's it for today. Tune in next time when we export our textures and maps and set up our 3D game asset within both Unity and Unreal.
 
 <br><br>
 
