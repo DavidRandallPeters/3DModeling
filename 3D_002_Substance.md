@@ -344,6 +344,14 @@ Okay, okay - let's paint already.
 
 <br>
 
+### Base layer
+
+<br>
+
+This first bit's real easy.
+
+<br>
+
 - Browse the **Materials** bin at the bottom of the screen for a suitable 'metal' base - I'm going with **Iron Raw Damaged**
 - Drag your chosen base material directly onto the model in the viewport
 
@@ -366,6 +374,12 @@ There's a now-redundant layer on the bottom of the stack called *Layer 1*.
 <br>
 
 - Select **Layer 1** and hit the **trash-can** button to remove that layer - keeping things clean
+
+<br><br>
+
+### Subsequent layers
+
+<br>
 
 
 
