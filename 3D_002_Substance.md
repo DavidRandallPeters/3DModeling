@@ -526,6 +526,14 @@ We'll block this yellow paint where we want to see metal.
 
 - In the **UV Map**, drag a selection marquee across the long rectangular strips that represent the band around the landmine
 
+<br>
+
+![Yellow band](https://user-images.githubusercontent.com/36719180/93164578-f741c500-f76d-11ea-8e0c-0edb2ec02741.png)
+
+<br>
+
+
+
 
 
 
