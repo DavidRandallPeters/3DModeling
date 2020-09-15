@@ -330,7 +330,7 @@ To see for ourselves that this is more than just lines on a surface, we'll rotat
 > Pay close attention to the depressions in the top of the shell..
 <br>
 
-RIGHT???
+*RIGHT???*
 
 <br><br>
 
@@ -345,8 +345,15 @@ Okay, okay - let's paint already.
 <br>
 
 - Browse the **Materials** bin at the bottom of the screen for a suitable 'metal' base - I'm going with **Iron Raw Damaged*
+- Drag your chosen base material directly onto the model in the viewport
 
 <br>
+
+![Metal base](https://user-images.githubusercontent.com/36719180/93157384-3700b080-f75e-11ea-9f07-f2a48ca27684.png)
+
+<br>
+
+Notice that 
 
 
 
