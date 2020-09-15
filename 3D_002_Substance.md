@@ -1,7 +1,7 @@
 # 3D Modeling for Game | 002 | Substance
 
 
-![Banner](https://user-images.githubusercontent.com/36719180/90928812-ad560f80-e44b-11ea-8bc2-cf44378c8e36.png)
+![Banner](https://user-images.githubusercontent.com/36719180/93179539-eacb6580-f789-11ea-9126-68a8261ca4be.png)
 
 
 Notes prepared by David Peters
