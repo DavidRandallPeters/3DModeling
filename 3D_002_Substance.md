@@ -383,7 +383,7 @@ This first bit's real easy.
 
 <br>
 
-- Browse the **Materials** bin at the bottom of the screen for a suitable 'metal' base - I'm going with **Iron Raw Damaged**
+- Browse the **Materials** bin in the **SHELF** at the bottom of the screen for a suitable 'metal' base - I'm going with **Iron Raw Damaged**
 - Drag your chosen base material directly onto the model in the viewport
 
 <br>
@@ -424,7 +424,7 @@ Let's add some actual paint:
 
 <br>
 
-- In the bottom-left of the screen, locate and select **Smart Materials** - these are materials with added parameters for more control
+- In the **SHELF**, bottom-left of the screen, locate and select **Smart Materials** - these are materials with added parameters for more control
 
 - Browse the bin (once it loads) and choose a suitable paint *smart material* - I'm going with **Steel Painted Scraped Green**
 
@@ -671,7 +671,20 @@ We'll start by making an emissive fill layer:
 
 - In the **LAYERS** panel, add a **black mask** to the **Emissive Green** layer - the green disappears
 
-- In the **SHELF**
+- In the **SHELF**, choose the **Alphas** category - we're presented with numerous black and white brushes which can be used as detail masks in a similar way to that which we've already done using the *Polygon fill* tool - except it's a brush
+
+- Locate and select a graphic that you'd like to use on your new emissive layer - I'm going with a simple **Square Rectangle** brush for this
+
+> Notice that the *PROPERTIES* panel now has the suffix *PAINT* and displays brush properties
+
+> The brush is ready for use either directly on your model or in the UV Map
+
+- Figure out where you want glowy stuff and have a go.. 
+
+> You can adjust the brush size by holding **CTRL** + **Right mouse button** and sliding
+
+> Also, right-clicking in the viewport briefly brings up the **BRUSH** properties
+
 
 
 
