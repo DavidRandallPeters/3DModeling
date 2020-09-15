@@ -610,7 +610,7 @@ Next, let's mask this layer as we did before.
 
 <br>
 
-> FYI: I'm NOT feeling okay about things! It's not glowing! We'll solve that in the next section
+FYI: I'm NOT feeling okay about things! It's not glowing! We'll solve that in the next section
 
 
 <br><br>
@@ -624,6 +624,37 @@ We can kind of tell that our emissive channel is working.. but there's no glow. 
 I should point out that anything we do in this section is purely to fulfil our need to see stuff glow - when we get this asset into a game engine, we'll need to harness that engine's rendering mechanics to achieve this once more. 
 
 But gaddam it's worth it. So let's do it.
+
+<br>
+
+- Open the **DISPLAY SETTINGS** (top button at the top-right-hand side of the screen
+
+- First up, let's just dip the **Environment Exposure (EV)** a little bit so we can reall see the glow
+
+- Scroll down and locate the **CAMERA SETTINGS** section
+
+- Check the **Activate Post Effects** checkbox
+
+- Expand the **Glare** dropdown
+
+- Check the **checkbox** to the right of the word **Glare** - (now we're talkin')
+
+- Tweak the settings here - but also in conjunction with the **Emissive Intensity** (in the *SHADER SETTINGS* panel) and the **Emissive** colour (in the *PROPERTIES - FILL* panel
+
+- You may also wish to change the *Glare* **Shape** to something like **Bloom*
+
+<br>
+
+![Glowy glow](https://user-images.githubusercontent.com/36719180/93168850-f0b84b00-f777-11ea-86d5-9d45edfa035e.png)
+
+<br>
+
+- Repeat the steps in the last section for any other glowy bits you wish to add in other colours
+
+<br>
+
+
+
 
 
 
