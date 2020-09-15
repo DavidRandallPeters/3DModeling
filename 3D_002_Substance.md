@@ -103,6 +103,44 @@ You're presented with the *high-poly* version of the landmine model.
 
 - Do the inverse for the **LowPoly** layer - making it visible
 - Notice that the low-poly and high-poly meshes share the exact same world-space - *this is very important for accurate projection!*
+- Take a moment to explore the *UV Shells* of the model in the **UV Editor** and close it when you're ready
+
+<br>
+
+![Low-poly shells](https://user-images.githubusercontent.com/36719180/93149698-33176300-f74b-11ea-92c4-d670f6990027.png)
+
+<br>
+
+- Hop into **Object mode** and select the **low-poly** object
+- Notice that it still has all of its history
+- Delete its History (**Edit » Delete by Type » History** or use the corresponding button in the **Poly Modeling toolset**)
+- Make the **High-poly** layer visible and also delete that mesh's history
+- Make that layer invisible again
+
+<br><br>
+
+### Common pivots
+
+This next bit isn't for the benfit of Substance but for your chosen game engine - in this case, Unreal.
+
+It isn't even necessary for this *particular* model as it's made of only one component.
+
+*BUT* - please bear with me. This is a good habit to get into for the purposes of assembling complex models (with multiple components) quickly, in-engine.
+
+Imagine you have a table asset with a bunch of beer mugs and swords on it. These are bound to be separate components (and ultimately separate 3D assets) - not least because the contents of the table may vary from scene to scene (or from table to table).
+
+To assist with rapid assembly in-engine, we can establish common pivot points here in Maya - meaning that we can literally drag and drop each varied (and variable) asset - and they'll assemble perfectly without fiddly intervention. Combinations can then be saved as varied Prefabs (Unity) or Blueprints (Unreal).
+
+<br>
+
+So. Let's get this skill down:
+
+<br>
+
+- Hit **Space** and choose one of the side orthographic projections
+- Select the object, hit **W** (move) and notice that its pivot is currently centered
+- Hit **D** - the gizmo changes its appearance - we are now able to move that pivot
+
 
 
 
