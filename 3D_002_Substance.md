@@ -506,7 +506,7 @@ We'll block this yellow paint where we want to see metal.
 
 - Double-click the words **Steel Painted Scraped Green** and rename it to something like *Yellow Paint*
 
-- Still in the**LAYERS** panel, hit the **Add mask** button (second from the left)
+- Still in the **LAYERS** panel, hit the **Add mask** button (second from the left)
 
 - Choose **Add black mask** - the paint disappears
 
@@ -520,7 +520,7 @@ We'll block this yellow paint where we want to see metal.
 
 > You can absolutely start working directly on your model - but the faster, less fiddly method is by working with your UV map
 
-- In the **UV Map**, click in any mesh cell that you want to become 'painted'
+- In the **UV Map**, click in any mesh cell that you want to become 'painted' - the paint is let through
 
 > You can totally click to your heart's content - but we can nail this in one fell swoop
 
