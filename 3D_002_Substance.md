@@ -368,7 +368,7 @@ To see for ourselves that this is more than just lines on a surface, we'll rotat
 
 ---
 
-## 002.009 | Applying materials
+## 002.009 | Applying materials in Substance
 
 <br>
 
@@ -722,15 +722,61 @@ Now we'll do the same thing but with 'paint'
 
 <br><br>
 
-### Custom stencils
+### Custom alphas
 
 <br>
 
-For the purposes of adding custom graphics, Substance has a pretty sweet 'stencil' utility.
+For the purposes of adding custom graphics, you can really easily add your own alpha brushes.
 
-You can also import custom alphas easily enough by preparing a black and white image in Photoshop and choosing *File » Import resources* in Substance
+Here's how:
 
 <br>
+
+- Fire up **Photoshop**
+
+- Create a new document measuring **2048px x 2048px**
+
+- Fill the background with **black**
+
+- Create your graphics in **white**
+
+<br>
+
+![Atom Can](https://user-images.githubusercontent.com/36719180/93178507-75ab6080-f788-11ea-90ed-1924b03f3c6e.png)
+
+<br>
+
+- Choose **File » Esport » Save for Web (legacy)**
+
+- Use the **PNG-24** Preset and hit **Save**
+
+- Put the file somewhere sensible and head back to **Substance Painter**
+
+- In **Subtance**, choose **File » Import recources**
+
+- Hit **Add resources**, locate your file and hit **Open**
+
+- Hit the **undefined** button and set it to **alpha**
+
+- Set the **Imprt your resources to:** field to any of those options - suggest using your 'project'
+
+- Hit **Import**
+
+- You'll find your custom alpha in the **SHELF** where you can use it like any other alpha brush
+
+<br>
+
+![Done](https://user-images.githubusercontent.com/36719180/93179305-9922db00-f789-11ea-8e67-2cd16e9004a3.png)
+
+<br><br>
+
+---
+
+## 002.010 | Exporting
+
+<br>
+
+Blah
 
 
 
