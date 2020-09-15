@@ -139,7 +139,7 @@ You're presented with the *high-poly* version of the landmine model.
 
 <br><br>
 
-### Common pivots
+### Common / grounded pivots
 
 This next bit isn't for the benfit of Substance but for your chosen game engine (in this case, Unreal).
 
@@ -163,8 +163,24 @@ So. Let's get this skill down:
 - Select the object, hit **W** (move) and notice that its pivot is currently centered
 - Hit **D** - the gizmo changes its appearance - we are now able to move that pivot
 
+<br>
 
+![Pivot centered](https://user-images.githubusercontent.com/36719180/93152419-d6b84180-f752-11ea-9bda-509e6d57f1cc.png)
 
+<br>
+
+- Hold **X** to snap to points, click and drag the *yellow* part of the gizmo until the picot rests at **'origin'** (0,0,0)
+
+<br>
+
+![Pivot moved](https://user-images.githubusercontent.com/36719180/93152422-d91a9b80-f752-11ea-9bea-af62adab870a.png)
+
+<br>
+
+- Again, hit **D** to switch back to normal *move* mode
+- *Repeat* these steps for the **high-poly** mesh
+
+<br><br>
 
 
 
