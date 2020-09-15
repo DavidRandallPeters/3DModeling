@@ -6,7 +6,7 @@
 
 Notes prepared by David Peters
 
-Using Maya 2020
+Using Maya 2020 & Substance Painter 2020.2.1 (6.2.1)
 
 ---
 
