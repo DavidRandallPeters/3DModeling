@@ -24,11 +24,12 @@ There are additional tips and tricks that we'll get into another day.
 
 1. Begin in Maya - prepare both high- and low-poly meshes for export and baking
 2. Export models as .fbx
-3. Fire up Substance and import low-poly model
-4. Bake all maps using the high-poly model as a source
-5. Apply materials
-6. Add an emissive channel for glowing stuff
-7. Add custom graphics in Photoshop
+3. Export UV map for Photoshop
+4. Fire up Substance and import low-poly model
+5. Bake all maps using the high-poly model as a source
+6. Apply materials
+7. Add an emissive channel for glowing stuff
+8. Add custom graphics in Photoshop
 
 <br><br>
 
@@ -697,7 +698,39 @@ We'll start by making an emissive fill layer:
 
 Now we'll do the same thing but with 'paint'
 
-- 
+<br>
+
+- Once again, **Add a fill layer** to the top of the **LAYER** stack
+
+- Give the new layer a sensible name
+
+> I'm just going to use the default white - but I'll make it whiter in the **PROPERTIES - FILL** panel
+
+- Add a *black mask* to the layer - white disappears
+
+- Choose another alpha brush from the **SHELF**
+
+- Remember that holding **CTRL** + **Right mouse button** changes the brush size on the fly
+
+> You can also rotate the brush in the **PROPERTIES** panel by using the **Angle** slider
+
+> I'm just gonna add some little triangles on either side of the 'join' because I'm into subtly - but, by all means, go to town!
+
+<br>
+
+![Triangles](https://user-images.githubusercontent.com/36719180/93172189-7dfe9e00-f77e-11ea-9d3f-660bed451e23.png)
+
+<br><br>
+
+### Custom stencils
+
+<br>
+
+For the purposes of adding custom graphics, Substance has a pretty sweet 'stencil' utility.
+
+You can also import custom alphas easily enough by preparing a black and white image in Photoshop and choosing *File » Import resources* in Substance
+
+<br>
 
 
 
