@@ -596,9 +596,42 @@ Next, let's mask this layer as we did before.
 
 - Select the **Iron Raw Damaged** layer and add a **white mask** - you'll see no change
 
-- Select the **Polygon fill** tool, ensure it's set to **black** in the **PROPERTIES - POLYGON FILL** panel and mask the glowing regions - it will become too white - but we'll fix that shortly
+- Select the **Polygon fill** tool, ensure it's set to **black** in the **PROPERTIES - POLYGON FILL** panel and mask the glowing regions - it will become more white - bear with me though
 
-- 
+- Select the **left-hand swatch** in the **Emissive Red** layer (checker pattern) - this just gives us access again to its colour in the *PROPERTIES - FILL* panel
+
+- Locate the **SHADER SETTINGS** panel and, in the **SHADER PARAMETERS** section, locate the **Emissive Intensity** slider
+
+- Tweak both the **Emissive Intensity** (this panel) and the **Emissive** colour (in the *PROPERTIES - FILL* panel until you're starting to feel alright about things
+
+<br>
+
+![Glow no glow](https://user-images.githubusercontent.com/36719180/93168288-9a96d800-f776-11ea-9c7c-25209682a2b3.png)
+
+<br>
+
+> FYI: I'm NOT feeling okay about things! It's not glowing! We'll solve that in the next section
+
+
+<br><br>
+
+### Camera settings
+
+<br>
+
+We can kind of tell that our emissive channel is working.. but there's no glow. And that's upsetting, quite frankly!
+
+I should point out that anything we do in this section is purely to fulfil our need to see stuff glow - when we get this asset into a game engine, we'll need to harness that engine's rendering mechanics to achieve this once more. 
+
+But gaddam it's worth it. So let's do it.
+
+
+
+
+
+
+
+
 
 
 
