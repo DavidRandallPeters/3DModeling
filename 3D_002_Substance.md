@@ -92,6 +92,8 @@ For the purposes of this tutorial, I suggest you do the same - *regardless of wh
 
 Once you have the basics down, you can go back and try it out with your own model.
 
+<br>
+
 I've provided a new Maya scene that contains both high-poly and low-poly iterations of the landmine.
 
 <br>
