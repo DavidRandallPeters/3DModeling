@@ -29,7 +29,8 @@ There are additional tips and tricks that we'll get into another day.
 5. Bake all maps using the high-poly model as a source
 6. Apply materials
 7. Add an emissive channel for glowing stuff
-8. Add custom graphics in Photoshop
+8. Use alpha brushes
+9. Add custom alphas
 
 <br><br>
 
@@ -772,14 +773,19 @@ Here's how:
 
 ---
 
-## 002.010 | Exporting
+<br><br>
 
-<br>
+That's it for today. Tune in next time when we export our textures and maps and iset them up within both Unity and Unreal.
 
-Blah
+<br><br>
+
+---
 
 
-![Banner](https://user-images.githubusercontent.com/36719180/93180028-a5f3fe80-f78a-11ea-8817-ffce845b05ce.png)
+
+
+
+
 
 
 
