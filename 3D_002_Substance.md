@@ -64,7 +64,23 @@ The mesh on the right in this picture is the same as the mesh on the left - (tha
 
 ---
 
-## 002.002 | High-poly model
+## 002.002 | High-poly and Low-poly models in Maya
+
+<br>
+
+This break-down assumes that you even desire high-mesh detail to be baked onto a low-poly mesh. This tutorial will still inform you of the Maya » Substance workflow even if you only have the one [low-poly] mesh. That said, I do suggest you follow these instructions in the interests of absorbing the skills.
+
+<br>
+
+Typically, you'll begin with a high-poly model, duplicate it and decimate it (or otherwise simplify the mesh) resulting in a low-poly version that shares the same dimensions and world-space. 
+
+That said, there's no reason you can't work in the other direction - adding detail to a low-poly mesh.
+
+The main things to note are that:
+
+1. There are indeed two versions of the asset
+2. They do occupy the same world-space
+3. They share the same overall dimensions
 
 <br>
 
