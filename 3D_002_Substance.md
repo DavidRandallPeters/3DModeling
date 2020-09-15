@@ -229,9 +229,23 @@ I think we can all agree that this is the fun part.
 - We're likely presented with a *Welcome* panel. You can close that.
 - In the top menu bar, choose **File » New** - we see the *New Project* panel
 - Set the **Template** to **Unreal Engine 4 (allegorithmic)** - (but note that there is also a *Unity* template)
-- Set the **Document Resolution** to **2048** - this determines the resolution of your textures
+- Just beneath the *Template* section it says *File* - hit the **Select** button to the right of this
+- Locate your exported **low-poly** .fbx mesh and hit **Open**
+- Set the **Document Resolution** to **2k** (**2048**) - this determines the resolution of your textures and maps
 >Note that this is not a final commitment - the Substance Painter workflow is non-destructive - meaning that texture resolutions can be increased or decreased later
-- Se
+- Hit **OK**
+
+<br>
+
+The top-half of your screen should look something like this:
+
+<br>
+
+![Open Substance](https://user-images.githubusercontent.com/36719180/93154066-cd30d880-f756-11ea-95dc-c504b2c4fa01.png)
+
+<br>
+
+- 
 
 
 
