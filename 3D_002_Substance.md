@@ -436,7 +436,7 @@ Let's add some actual paint:
 
 <br><br>
 
-I have my heart set on yellow for this paint - so let's change the colour
+I had my heart set on a yellowy orange for this paint - so let's change the colour..
 
 <br>
 
@@ -463,6 +463,22 @@ It's now more apparent that Substance has gone way OTT on the 'grime'. A little 
 Let's dial that back some.
 
 <br>
+
+- Zoom in a little on your landmine so that we can see the following changes clearly
+
+- Hit the **eye** icon (to the left of each constituent layer) off and on again to get a feel for what they each do
+
+- It's the **Dirt** layer that's upsetting me .. in that layer, there are two swatches. Select the **swatch** on the **right**
+
+- From the options that become available, select **Grunge Scratches Rough** - its properties become available in the *PROPERTIES - FILL* panel
+
+<br>
+
+![Grunge](https://user-images.githubusercontent.com/36719180/93162996-1f2f2980-f76a-11ea-90cb-fc0ba3186c66.png)
+
+<br>
+
+- In the **PROPERTIES - FILL** panel, 
 
 
 
