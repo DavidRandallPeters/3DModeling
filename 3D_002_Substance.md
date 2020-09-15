@@ -74,9 +74,7 @@ That said, I do suggest you follow these instructions in the interests of absorb
 
 <br>
 
-Typically, you'll begin with a high-poly model, duplicate it and decimate it (or otherwise simplify the mesh) resulting in a low-poly version that shares the same dimensions and world-space. 
-
-That said, there's no reason you can't work in the other direction - adding detail to a low-poly mesh.
+Typically, you'll begin with a high-poly model, duplicate it and decimate it (or otherwise simplify the mesh) resulting in a low-poly version that shares the same dimensions and world-space. However, there's no reason you can't work in the other direction - adding detail to a low-poly mesh.
 
 <br>
 
