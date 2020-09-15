@@ -564,6 +564,8 @@ To get this up and running, we need to first add a channel that's dedicated to e
 
 - Hit the **Add a fill layer** button (fourth from the left at the top of this panel) - this adds a white fill layer to the top of the stack
 
+- Rename the layer to something like *Emissive Red*
+
 - In the **PROPERTIES - FILL** panel, locate the **MATERIAL** section
 
 > Notice that all channels are enabled - indicated by a blue border
@@ -585,6 +587,16 @@ Don't stress that things aren't as glowy as we all want things to be.. we'll get
 Next, let's mask this layer as we did before.
 
 <br>
+
+- With the **Emissive Red** layer selected, hit the **Add mask** button and choose **Add black mask**
+
+- Using the **Polygon fill** tool (as before), unmask areas that you wish to glow
+
+> To stop the glowing region from reflecting light, you may wish mask your base layer.. if so:
+
+- Select the **Iron Raw Damaged** layer and add a **white mask** - you'll see no change
+
+- Select the **Polygon fill** tool, ensure it's set to **black** in the **PROPERTIES - POLYGON FILL** panel and mask the glowing regions - it will become too white - but we'll fix that shortly
 
 - 
 
