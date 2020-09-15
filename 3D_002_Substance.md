@@ -1,4 +1,4 @@
-# 3D Modeling for Game | 002 | Substance
+# 3D Modeling for Game | 002 | Substance Painter
 
 
 ![Atom Can](https://user-images.githubusercontent.com/36719180/93180373-29155480-f78b-11ea-9d91-59c89a6adb45.png)
