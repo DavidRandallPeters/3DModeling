@@ -430,7 +430,42 @@ Let's add some actual paint:
 
 > Notice that this material looks for hard edges and exposes metal beneath the paint in those areas to simulate wear and tear
 
-- 
+<br>
+
+![Steel painted 01](https://user-images.githubusercontent.com/36719180/93161963-d0809000-f767-11ea-8a3d-0ca1662021c3.png)
+
+<br><br>
+
+I have my heart set on yellow for this paint - so let's change the colour
+
+<br>
+
+- Hit the **Folder** icon to the left of the **Steel Painted Scraped Green** layer in the **Layers** panel
+
+> Have a quick look at the various other layers that this *smart layer* is comprised of
+
+- Locate **Base Metal** and select it
+
+- In the bottom-right of the screen, locate the **PROPERTIES - FILL** panel
+
+- Scroll down until you find the **Base Color** swatch and hit it
+
+- Adjust the *base color* as you see fit
+
+<br>
+
+![Too much grime](https://user-images.githubusercontent.com/36719180/93162448-e93d7580-f768-11ea-87e1-7c30b81d4268.png)
+
+<br>
+
+It's now more apparent that Substance has gone way OTT on the 'grime'. A little subtly, please, folks!
+
+Let's dial that back some.
+
+<br>
+
+
+
 
 
 
