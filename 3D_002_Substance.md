@@ -134,8 +134,39 @@ You're presented with the *high-poly* version of the landmine model.
 - Hop into **Object mode** and select the **low-poly** object
 - Notice that it still has all of its history
 - Delete its History (**Edit » Delete by Type » History** or use the corresponding button in the **Poly Modeling toolset**)
-- Make the **High-poly** layer visible and also delete that mesh's history
-- Make that layer invisible again
+
+<br><br>
+
+
+---
+
+## 002.003 | Committing smooth preview
+
+<br>
+
+You'll be aware already of the *1*, *2* and *3* hotkeys - when an object is selected, those keys allow us to cycle between an accurate [unsmoothed] presentation of that object and an *innacurate* preview of what that mesh *would* look like if were to apply / commit smoothness.
+
+But who ever does that?
+
+**We do** - because we want ALL of the detail and we want it at its finest.
+
+<br>
+
+- With the high-poly mesh selected hit **1** to show the object as it truly is
+- Choose **Mesh » Smooth** (from the top menu bar) - choose the default *1* division
+- Hit **Q** to apply
+
+<br>
+
+If we were to hit *3* now, Maya is likely to give us a warning:
+
+>"The selected mesh [blah] contains a large number of faces and may take a while to smooth or run our of memory. Do you want to continue with smooth mesh preview?"
+
+No. We do not. That would mean *smoothing the smoothness* - resulting in a silly number of polys - and we already have quite enough.
+
+<br>
+
+- Now that that's done, also delete the high-poly object's history
 
 <br><br>
 
