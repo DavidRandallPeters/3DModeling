@@ -353,9 +353,19 @@ Okay, okay - let's paint already.
 
 <br>
 
-Notice that 
+- In the top-right of your screen, tab over to **LAYERS** - (currently, we're in *TEXTURE SET SETTINGS*)
 
+<br>
 
+Notice, in the LAYERS panel that *Iron Raw Damaged* is a *Fill* layer - positioned on TOP of the 'stack'.
+
+The layers, here, work the same way as in Photoshop; what's on top is.. on top.
+
+There's a now-redundant layer on the bottom of the stack called *Layer 1*. 
+
+<br>
+
+- Select **Layer 1** and hit the **trash-can** button to remove that layer - keeping things clean
 
 
 
