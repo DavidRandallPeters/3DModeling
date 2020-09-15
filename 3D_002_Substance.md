@@ -756,7 +756,7 @@ Here's how:
 
 - Put the file somewhere sensible and head back to **Substance Painter**
 
-- In **Subtance**, choose **File » Import recources**
+- In **Subtance**, choose **File » Import resources**
 
 - Hit **Add resources**, locate your file and hit **Open**
 
