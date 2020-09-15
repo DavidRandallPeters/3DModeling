@@ -24,13 +24,12 @@ There are additional tips and tricks that we'll get into another day.
 
 1. Begin in Maya - prepare both high- and low-poly meshes for export and baking
 2. Export models as .fbx
-3. Export UV map for Photoshop
-4. Fire up Substance and import low-poly model
-5. Bake all maps using the high-poly model as a source
-6. Apply materials
-7. Add an emissive channel for glowing stuff
-8. Use alpha brushes
-9. Add custom alphas
+3. Fire up Substance and import low-poly model
+4. Bake all maps using the high-poly model as a source
+5. Apply materials in various ways
+6. Add an emissive channel for glowing stuff
+7. Use alpha brushes
+8. Add custom alphas
 
 <br><br>
 
