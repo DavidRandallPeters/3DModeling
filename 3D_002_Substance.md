@@ -285,13 +285,63 @@ The lighting that's applied to the model is derived from this HDRI background us
 - Adjust the **Blur** and **Exposure (EV)** as you see fit
 - **Explore** the other settings in this panel and **close it** when you're ready
 
+<br><br>
+
+---
+
+## 002.006 | Baking high-poly to low-poly
+
+<br>
+
+This is the magic bit. We're about to take the high-poly detail and project it onto our low-poly mesh.
+
+<br>
+
+- In the **TEXTURE SET SETTINGS** panel (right-hand side of screen), scroll down until you find the **MESH MAPS** category
+- Hit the **Bake Mesh Maps** button - the *Baking* panel pops up
+- Adjust the **Output Size** to match your document (**2048**)
+- Hit the little file-lookin' button indicated in the image below (**High definition meshes** is its tooltip)
+- Locate and select your **high-poly** mesh and hit **Open**
+
+<br>
+
+![Baking](https://user-images.githubusercontent.com/36719180/93156678-b9887080-f75c-11ea-93db-5ff820ebd984.png)
+
+<br>
+
+- The **Max Frontal Distance** and **Max Rear Distance** settings will vary depending on your model - you may wish to come back in here later, change those settings and rebake - depending on results (mesh details may not always bake nicely). For now, dial them both up to **1** and see how you go.
+- Hit **Bake selected textures**
+
+<br>
+
+Substance will run a bunch of calculations - hopefully resulting in a yummy projection:
+
+<br>
+
+![Baked](https://user-images.githubusercontent.com/36719180/93156786-f2284a00-f75c-11ea-8bce-e315c6942c53.png)
+
+<br>
+
+To see for ourselves that this is more than just lines on a surface, we'll rotate the sun's position in the sky and watch as the shadows are cast appropriately - despite there being no additional mesh detail..
+
+<br>
+
+- With your mouse cursor in the main viewport, hold **Shift** and the **Right mouse button** and drag from side-to-side
+> Pay close attention to the depressions in the top of the shell.. RIGHT???
+
+<br><br>
+
+---
+
+## 002.007 | Applying materials
+
 <br>
 
 Okay, okay - let's paint already.
 
 <br>
 
-
+- Browse the **Materials** bin at the bottom of the screen for a suitable 'metal' base - I'm going with **Iron Raw Damaged*
 
 <br>
 
