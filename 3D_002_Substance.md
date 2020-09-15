@@ -685,6 +685,22 @@ We'll start by making an emissive fill layer:
 
 > Also, right-clicking in the viewport briefly brings up the **BRUSH** properties
 
+> Remember that you can 'erase' you work by inverting the brush colour (remember how masks work?) - scroll to the bottom of the **PROPERTIES** panel and locate the **GRAYSCALE** section - use the slider to adjust the brush tone
+
+- Repeat these steps for any additional emmisive colours you wish to add
+
+<br>
+
+![Glow x3](https://user-images.githubusercontent.com/36719180/93170833-13e4f980-f77c-11ea-97eb-3aeabf61d129.png)
+
+<br><br>
+
+Now we'll do the same thing but with 'paint'
+
+- 
+
+
+
 
 
 
