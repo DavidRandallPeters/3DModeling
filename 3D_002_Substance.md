@@ -251,7 +251,38 @@ The top-half of your screen should look something like this:
 
 Below that are butt-loads of brushes, alphas, presets and various parameters.
 
-- 
+<br>
+
+---
+
+## 002.006 | Environment settings
+
+<br>
+
+First up, we'll look at Environment settings. 
+
+Currently, the background in our viewport is blank.
+
+But we can light up an HDRI background that roughly resembles the environment in which our asset will ultimately be placed.
+
+
+- In the far *top-right* of the screen, locate the **Display Settings** button - (it's the top-most of three buttons)
+- Open **Display Settings** - at the top of the panel is *ENVIRONMENT SETTINGS*
+- Dial up the **Environment Opacity** slider - a blurry background will appear in the viewport
+- Reduce the **Environment Blur** to see what you're lookin' at - *sunny pastures!*
+
+<br>
+
+![Sunny pastures](https://user-images.githubusercontent.com/36719180/93155083-5d701d00-f759-11ea-95ce-921d43486d5f.png)
+
+<br>
+
+The lighting that's applied to the model is derived from this HDRI background using a kind of *Global Illumination (GI)* - we'll change this background to ensure that our paint-job works in our target environment - which let's pretend is a darker industrial environment..
+
+
+- Hit the button next to **Enironment Map** and select another image. I'm going with **Gdansk Shipyard Buildings**
+
+The image changes
 
 
 
