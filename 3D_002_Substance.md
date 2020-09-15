@@ -153,12 +153,12 @@ But who ever does that?
 <br>
 
 - With the high-poly mesh selected hit **1** to show the object as it truly is
-- Choose **Mesh » Smooth** (from the top menu bar) - choose the default *1* division
+- Choose **Mesh » Smooth** (from the top menu bar) - choose the default **1** division
 - Hit **Q** to apply
 
 <br>
 
-If we were to hit *3* now, Maya is likely to give us a warning:
+If we were to hit *3* now, Maya would likely give us a warning:
 
 >"The selected mesh [blah] contains a large number of faces and may take a while to smooth or run our of memory. Do you want to continue with smooth mesh preview?"
 
@@ -172,7 +172,7 @@ No. We do not. That would mean *smoothing the smoothness* - resulting in a silly
 
 ---
 
-## 002.003 | Establishing common / grounded pivots
+## 002.004 | Establishing common / grounded pivots
 
 <br>
 
@@ -223,7 +223,7 @@ It should go withoutsaying that When doing this for your own model, ensure you d
 
 ---
 
-## 002.004 | Exporting models from Maya
+## 002.005 | Exporting models from Maya
 
 <br>
 
@@ -249,7 +249,7 @@ Note that the UV maps will be exported with the model as part of this process - 
 
 ---
 
-## 002.005 | To Substance
+## 002.006 | To Substance
 
 <br>
 
@@ -286,7 +286,7 @@ Below that are butt-loads of brushes, alphas, presets and various parameters.
 
 ---
 
-## 002.006 | Environment settings
+## 002.007| Environment settings
 
 <br>
 
@@ -320,7 +320,7 @@ The lighting that's applied to the model is derived from this HDRI background us
 
 ---
 
-## 002.006 | Baking high-poly to low-poly
+## 002.008 | Baking high-poly to low-poly
 
 <br>
 
@@ -367,7 +367,7 @@ To see for ourselves that this is more than just lines on a surface, we'll rotat
 
 ---
 
-## 002.007 | Applying materials
+## 002.009 | Applying materials
 
 <br>
 
@@ -423,6 +423,12 @@ That cumulative effect is part of why Substance Painter is so cool. But it's als
 Let's add some actual paint:
 
 <br>
+
+- In the bottom-left of the screen, locate and select **Smart Materials** - these are materials with added parameters for more control
+
+- Browse the bin (once it loads) and choose a suitable paint *smart material* - I'm going with **Steel Painted Scraped Green**
+
+> Notice that this material looks for hard edges and exposes metal beneath the paint in those areas to simulate wear and tear
 
 - 
 
