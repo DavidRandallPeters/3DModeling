@@ -756,13 +756,13 @@ Here's how:
 
 - Put the file somewhere sensible and head back to **Substance Painter**
 
-- In **Subtance**, choose **File » Import resources**
+- In **Substance**, choose **File » Import resources**
 
 - Hit **Add resources**, locate your file and hit **Open**
 
 - Hit the **undefined** button and set it to **alpha**
 
-- Set the **Imprt your resources to:** field to any of those options - suggest using your 'project'
+- Set the **Import your resources to:** field to any of those options - suggest using your 'project'
 
 - Hit **Import**
 
