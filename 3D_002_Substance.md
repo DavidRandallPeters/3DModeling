@@ -224,6 +224,10 @@ Note that the UV maps will be exported with the model as part of this process - 
 
 I think we can all agree that this is the fun part.
 
+Let her rip!
+
+<br>
+
 - We're done with Maya, so you can close that if you wish
 - Open **Substance Painter**
 - We're likely presented with a *Welcome* panel. You can close that.
