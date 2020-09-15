@@ -200,7 +200,7 @@ This part's quite easy - all preparations have now been made and it's only a mat
 
 Note that the UV maps will be exported with the model as part of this process - and we'll just use the low-poly UV map.
 
-<br><br>
+<br>
 
 - Select the **low-poly** object in the viewport
 - Choose **File » Export Selection**
@@ -221,6 +221,10 @@ Note that the UV maps will be exported with the model as part of this process - 
 ## 002.005 | To Substance!
 
 <br>
+
+I think we can all agree that this is the fun part.
+
+
 
 
 
