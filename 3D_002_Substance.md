@@ -344,7 +344,7 @@ Okay, okay - let's paint already.
 
 <br>
 
-- Browse the **Materials** bin at the bottom of the screen for a suitable 'metal' base - I'm going with **Iron Raw Damaged*
+- Browse the **Materials** bin at the bottom of the screen for a suitable 'metal' base - I'm going with **Iron Raw Damaged**
 - Drag your chosen base material directly onto the model in the viewport
 
 <br>
