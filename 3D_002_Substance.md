@@ -141,11 +141,11 @@ You're presented with the *high-poly* version of the landmine model.
 
 ### Common pivots
 
-This next bit isn't for the benfit of Substance but for your chosen game engine (in this case, Unreal) - and whomever in the production line is responsible for assembling props. 
+This next bit isn't for the benfit of Substance but for your chosen game engine (in this case, Unreal).
 
-It isn't even necessary for this *particular* model as it's made of only one component.
+This is a good habit to get into for two reasons:
 
-*BUT* - please bear with me. This is a good habit to get into for the purposes of assembling complex models (with multiple components) quickly, in-engine.
+1. The purposes of assembling complex models (with multiple components) quickly, in-engine.
 
 Imagine you have a table asset that has a bunch of beer mugs and swords on it (let's assume that these can't be picked up - this approach will oftentimes be irrelevant for collectible items as they would typically want a centered pivot). These mugs and swords are bound to be separate components (and ultimately separate 3D assets) - not least because the contents of the table may vary from scene to scene (or from table to table).
 
