@@ -279,10 +279,23 @@ But we can light up an HDRI background that roughly resembles the environment in
 
 The lighting that's applied to the model is derived from this HDRI background using a kind of *Global Illumination (GI)* - we'll change this background to ensure that our paint-job works in our target environment - which let's pretend is a darker industrial environment..
 
+<br>
 
-- Hit the button next to **Enironment Map** and select another image. I'm going with **Gdansk Shipyard Buildings**
+- Hit the button next to **Enironment Map** and select another image. I'm going with **Gdansk Shipyard Buildings** - the image changes
+- Adjust the **Blur** and **Exposure (EV)** as you see fit
+- **Explore** the other settings in this panel and **close it** when you're ready
 
-The image changes
+<br>
+
+Okay, okay - let's paint already.
+
+<br>
+
+
+
+<br>
+
+
 
 
 
