@@ -746,7 +746,7 @@ Here's how:
 
 <br>
 
-- Choose **File » Esport » Save for Web (legacy)**
+- Choose **File » Export » Save for Web (legacy)**
 
 - Use the **PNG-24** Preset and hit **Save**
 
@@ -779,28 +779,3 @@ That's it for today. Tune in next time when we export our textures and maps and 
 <br><br>
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
