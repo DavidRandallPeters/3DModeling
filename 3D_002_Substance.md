@@ -381,6 +381,19 @@ There's a now-redundant layer on the bottom of the stack called *Layer 1*.
 
 <br>
 
+Subsequent layers inherit some properties from those below. *Normal maps* are case in point - if there is any height information in our base coat (don't worry, there isn't) that will combine show all the way to the top. The same is true of any additional layers that we add.
+
+*This is a good thing!* It allows us to concoct materials that look like paint that's painted over rust - which is painted over paint that's painted over rust.
+
+That cumulative effect is part of why Substance Painter is so cool. But it's also something to keep track of as you build your textures.
+
+<br>
+
+Let's add some actual paint:
+
+<br>
+
+- 
 
 
 
