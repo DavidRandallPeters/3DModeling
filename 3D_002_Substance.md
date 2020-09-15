@@ -349,7 +349,7 @@ Okay, okay - let's paint already.
 
 <br>
 
-![Metal base](https://user-images.githubusercontent.com/36719180/93157384-3700b080-f75e-11ea-9f07-f2a48ca27684.png)
+![Metal base](https://user-images.githubusercontent.com/36719180/93157476-69121280-f75e-11ea-8c49-4f869c3562b9.png)
 
 <br>
 
