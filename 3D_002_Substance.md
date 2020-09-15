@@ -159,6 +159,10 @@ But who ever does that?
 
 <br>
 
+![Smoothed](https://user-images.githubusercontent.com/36719180/93182742-29631f00-f78e-11ea-9e5e-054e86781111.png)
+
+<br>
+
 If we were to hit *3* now, Maya would likely give us a warning:
 
 >"The selected mesh [blah] contains a large number of faces and may take a while to smooth or run our of memory. Do you want to continue with smooth mesh preview?"
