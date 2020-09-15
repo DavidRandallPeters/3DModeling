@@ -147,9 +147,9 @@ It isn't even necessary for this *particular* model as it's made of only one com
 
 *BUT* - please bear with me. This is a good habit to get into for the purposes of assembling complex models (with multiple components) quickly, in-engine.
 
-Imagine you have a table asset that has a bunch of beer mugs and swords on it (let's assume that these can't be picked up - this approach is irrelevant for collectible items). These are bound to be separate components (and ultimately separate 3D assets) - not least because the contents of the table may vary from scene to scene (or from table to table).
+Imagine you have a table asset that has a bunch of beer mugs and swords on it (let's assume that these can't be picked up - this approach will oftentimes be irrelevant for collectible items as they would typically want a centered pivot). These mugs and swords are bound to be separate components (and ultimately separate 3D assets) - not least because the contents of the table may vary from scene to scene (or from table to table).
 
-To assist with rapid assembly in-engine, we can establish common pivot points here in Maya - meaning that we can literally drag and drop each varied (and variable) asset and they'll assemble perfectly without fiddly manipulation. Table/item combinations can then be saved as varied Prefabs (Unity) or Blueprints (Unreal).
+To assist with rapid assembly in-engine, we can establish common pivot points for all items, here in Maya - meaning that we can literally drag and drop each varied (and variable) asset and they'll assemble perfectly without fiddly manipulation. Table/item combinations can then be saved as varied Prefabs (Unity) or Blueprints (Unreal).
 
 <br>
 
