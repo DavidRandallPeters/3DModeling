@@ -196,6 +196,32 @@ It should go withoutsaying that When doing this for your own model, ensure you d
 
 <br>
 
+This part's quite easy - all preparations have now been made and it's only a matter of getting these models into a folder for import to Substance.
+
+Note that the UV maps will be exported with the model as part of this process - and we'll just use the low-poly UV map.
+
+<br><br>
+
+- Select the **low-poly** object in the viewport
+- Choose **File » Export Selection**
+- Ensure the model is going to a sensible folder location
+- Give the model a descriptive file name - eg.: *LandMineHigh001*
+- Ensure that the **Files of type:** field is set to **FBX export**
+- Default *Options* will be fine
+- Hit **Exprt Selection**
+
+<br>
+
+- Repeat these steps for your **high-poly** object - (of course, adjusting the file name appropriately)
+
+<br><br>
+
+---
+
+## 002.005 | To Substance!
+
+<br>
+
 
 
 
