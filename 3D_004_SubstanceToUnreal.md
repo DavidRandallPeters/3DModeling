@@ -128,6 +128,15 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 <br>
 
+> The the colour channels (RGB) in our **OcclusionRoughnessMetallic** texture correspond to material properties as follows:
+> **R** » **Ambient Occlusion (AO)**
+> **G** » **Roughness**
+> **B** » **Metallic**
+
+- Connect those channe
+
+
+
 
 
 
