@@ -43,6 +43,12 @@ Let's get into it:
 
 Substance will run the export. You'll notice that the file-names have inherited the name of your Maya shader - most likely this is *lambert1*.
 
+<br>
+
+![Lambert](https://user-images.githubusercontent.com/36719180/93734710-80557200-fc2e-11ea-818c-2e3fcdc822f1.png)
+
+<br>
+
 By all means leave this as is - I'm kinda fussy though - so I'll open the destination folder and tidy up those file names.
 
 <br><br>
@@ -55,7 +61,11 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 - Fire up your Unreal project (or create one for the occasion)
 - In the **Content Browser**, creat a folder for the asset - I'm calling mine *Landmine*
-> This will contain 
+> This will contain all the relevant textures, materials and mesh for this asset.
+- Create a **Materials** folder, **Textures** folder and **Mesh** folder
+- Open the **Textures**
+- Hit the **Import** button at the top of the **Content** browser
+
 
 
 
