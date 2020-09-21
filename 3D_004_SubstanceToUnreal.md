@@ -95,7 +95,7 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 <br>
 
 - Go into your **Landmine » Materials** folder
-- Right-click inside that [empty] folder and 
+- **Right-click** inside that [empty] folder and choose **Material** to create a new material
 - Name it **LandmineMat**
 - Double-click the new material to open it in Unreal's *Material editor*
 
@@ -103,12 +103,23 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 <br>
 
-![Empty material slots](https://user-images.githubusercontent.com/36719180/93737850-4ab58680-fc38-11ea-8ac8-8fb34ce4ac34.png)
+![Empty material slots](https://user-images.githubusercontent.com/36719180/93738003-c9122880-fc38-11ea-83db-d5847e52aab6.png)
+
+<br>
+
+- **Right-click** in empty graph space (to the left of the material node) 
+- Start typing **TextureSample** in the search field and choose that when it becomes available
+- Locate the **Material Expression Texture Base** section of the **Details** panel
+- Use the drop-down next to the **Texture** swatch to locate your **Landmine_BaseColor** texture asset and choose it
+- In the graph, drag off the **Texture Sample** node's **RGB** pin and connect it to the **Base Color** pin in the **New Material** node
+
+<br>
+
+
 
 <br>
 
 - 
-
 
 
 
