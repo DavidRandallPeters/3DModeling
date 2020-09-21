@@ -66,6 +66,14 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 - Open the **Textures**
 - Hit the **Import** button at the top of the **Content** browser
 
+<br>
+
+![Import](https://user-images.githubusercontent.com/36719180/93734835-0376c800-fc2f-11ea-9cb1-07328d8c1cc9.png)
+
+<br>
+
+- 
+
 
 
 
