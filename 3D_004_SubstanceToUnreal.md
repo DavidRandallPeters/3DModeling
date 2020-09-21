@@ -85,7 +85,7 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 <br>
 
-- Go into your **Landmines » Mesh** folder and import your **low-poly mesh** - the one you imported into *Substance Painter*
+- Go into your **Landmine » Mesh** folder and import your **low-poly mesh** - the one you imported into *Substance Painter*
 - Drag the model into your scene - it'll likely look something like this:
 
 <br>
@@ -94,8 +94,20 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 <br>
 
-- 
+- Go into your **Landmine » Materials** folder
+- Right-click inside that [empty] folder and 
+- Name it **LandmineMat**
+- Double-click the new material to open it in Unreal's *Material editor*
 
+> You'll see a material node with empty slots - it's our task to plug our textures into the correct slots to make this render as it we want it to
+
+<br>
+
+![Empty material slots](https://user-images.githubusercontent.com/36719180/93737850-4ab58680-fc38-11ea-8ac8-8fb34ce4ac34.png)
+
+<br>
+
+- 
 
 
 
