@@ -37,10 +37,25 @@ Let's get into it:
 
 <br>
 
-Subtsance will run the export. You'll notice that the file-names have inherited the name of your Maya shader - most likely this is *lambert1*.
+![Export settings](https://user-images.githubusercontent.com/36719180/93734536-b9411700-fc2d-11ea-808e-70088bbda8a1.png)
+
+<br>
+
+Substance will run the export. You'll notice that the file-names have inherited the name of your Maya shader - most likely this is *lambert1*.
 
 By all means leave this as is - I'm kinda fussy though - so I'll open the destination folder and tidy up those file names.
 
+<br><br>
+
+---
+
+## 004.002 | Importing to Unreal
+
+<br>
+
+- Fire up your Unreal project (or create one for the occasion)
+- In the **Content Browser**, creat a folder for the asset - I'm calling mine *Landmine*
+> This will contain 
 
 
 
