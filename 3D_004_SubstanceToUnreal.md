@@ -1,7 +1,6 @@
 # 3D Modeling for Game | 004 | Substance » Unreal
 
-
-![Atom Can](https://user-images.githubusercontent.com/36719180/93180373-29155480-f78b-11ea-9d91-59c89a6adb45.png)
+![Banner Unreal](https://user-images.githubusercontent.com/36719180/93731545-91e44d00-fc21-11ea-8de9-4594e1a276f8.png)
 
 
 Notes prepared by David Peters
