@@ -5,7 +5,7 @@
 
 Notes prepared by David Peters
 
-Using Substance Painter 2020.2.1 (6.2.1) + Unreal 4.20.3
+Using Substance Painter 2020.2.1 (6.2.1) + Unreal 4.23.1
 
 ---
 
