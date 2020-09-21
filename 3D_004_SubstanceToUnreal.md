@@ -65,10 +65,32 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 - Create a **Materials** folder, **Textures** folder and **Mesh** folder
 - Open the **Textures**
 - Hit the **Import** button at the top of the **Content** browser
+- Locate and import your textures
 
 <br>
 
 ![Import](https://user-images.githubusercontent.com/36719180/93734835-0376c800-fc2f-11ea-9cb1-07328d8c1cc9.png)
+
+<br>
+
+- In the **Content Browser** Double-click the **OcclusionRoughnessMetallic** file to open the asset
+- In the **Texture** sections of the **Details** panel, *uncheck* the **sRGB** checkbox
+- Hit **Save** (top-left) and close the window
+
+> The comparison below shows the final asset with and without sRGB. Textures created in Substance seem to prefer not to be treated with sRGB.
+
+<br>
+
+![sRGB Comparison](https://user-images.githubusercontent.com/36719180/93735703-f14a5900-fc31-11ea-98b0-b6a0514a3e1a.png)
+
+<br>
+
+- Go into your **Landmines » Mesh** folder and import your **low-poly mesh** - the one you imported into *Substance Painter*
+- Drag the model into your scene - it'll likely look something like this:
+
+<br>
+
+![Mesh import](https://user-images.githubusercontent.com/36719180/93735988-ec39d980-fc32-11ea-91c4-1ebbcc3e31b8.png)
 
 <br>
 
