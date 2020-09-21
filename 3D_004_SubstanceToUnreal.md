@@ -140,6 +140,14 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 - Connect those channells accordingly
 
+<br>
+
+![OcclusionRoughnessMetallic](https://user-images.githubusercontent.com/36719180/93740156-0c22ca80-fc3e-11ea-8689-d380235a3709.png)
+
+<br>
+
+- 
+
 
 
 
