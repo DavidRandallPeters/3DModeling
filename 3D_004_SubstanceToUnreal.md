@@ -119,7 +119,14 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 <br>
 
-- 
+- Select the **Texture Sample** node and hit **CTRL + W** to duplicate it three times - you should four when you're done
+- Load your remaining three textures in the other **Texture Sample** nodes as we've just done, as indicated below:
+
+<br>
+
+![Plug 'em in](https://user-images.githubusercontent.com/36719180/93739126-a3d2e980-fc3b-11ea-9ce7-1e5674d174b8.png)
+
+<br>
 
 
 
