@@ -1,7 +1,7 @@
 # 3D Modeling for Game | 002 | Substance Painter
 
 
-![Atom Can](https://user-images.githubusercontent.com/36719180/93180373-29155480-f78b-11ea-9d91-59c89a6adb45.png)
+![Banner](https://user-images.githubusercontent.com/36719180/93728446-15973d00-fc14-11ea-809c-a7af94f00428.png)
 
 
 Notes prepared by David Peters
