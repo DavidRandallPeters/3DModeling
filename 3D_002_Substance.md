@@ -222,7 +222,7 @@ So. Let's get this skill down:
 
 <br>
 
-It should go withoutsaying that When doing this for your own model, ensure you do this for each and every component / object in your asset.
+It should go without saying that when doing this for your own model, ensure you do this for each and every component / object in your asset.
 
 <br><br>
 
