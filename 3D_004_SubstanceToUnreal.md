@@ -138,7 +138,7 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 <br>
 
-- Connect those channells accordingly
+- Connect those channels accordingly
 
 <br>
 
@@ -146,9 +146,36 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 <br>
 
-- Connect the **Normal** map to **Normal**
+- Connect the **RGB** channel of the **Normal** map to **Normal**
 
-> Emission is a little different.. 
+<br>
+
+> Emission is a little different.. we need to indicate how strongly to emit. We do this by multiplying the colour values in the texture by a number that we'll provide.
+
+- Right-click in empty graph space and search for **Multiply** and choose it
+
+- Connect the **Emmissive** texture node's **RGB** pin to the **A** input of the **Multiply** node
+
+- Hold the number **1** key and **left-click** in empty graph space to create a **Constant** node
+
+- Connect the **Constant** node to the **B** input of the **Multiply** node
+
+- Connect the **Multiply** node to the **Emissive Color** channel
+
+> You won't see any change in the preview just yet - we need to provide a constant value
+
+- Select the **Constant** node
+
+- In the **Details** panel, provide a *Material Expression Constant* **Value** of about **40** - you can come back and change this later to adjust emission if you feel the need
+
+<br>
+
+![Material setup complete](https://user-images.githubusercontent.com/36719180/93741538-bc91ce00-fc40-11ea-9b64-fd2c64be28ba.png)
+
+<br>
+
+- 
+
 
 
 
