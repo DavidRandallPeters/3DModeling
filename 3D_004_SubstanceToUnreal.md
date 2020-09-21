@@ -27,7 +27,7 @@ Let's get into it:
 - In the main menu, choose **File » Export Textures** (or just hit **Ctrl + Shift + E**)
 > We set up this project using the Unreal template - if you didn't, now's your chance to change that
 - Ensure that **Output Template** is set to **Unreal Engine 4 (Packed)**
-- Double-check **Output direectory** to make sure your destination folder is sensible
+- Double-check **Output directory** to make sure your destination folder is sensible
 - **8-bit .png** is fine
 - Set size to something sensible - **2048** is probably fine
 > If either your model is physically very large in your scene or you've included a LOT of model components, you may want to increase this to 4k .. but that's unlikely.. and expensive.. Remember that we're not just exporting a base materai but three other maps also. It all adds up. So maybe just see how you go with 2k and redo the export if you need to.
@@ -115,7 +115,7 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 <br>
 
-
+![BaseColor](https://user-images.githubusercontent.com/36719180/93738658-6faaf900-fc3a-11ea-8f11-3aa067c8004c.png)
 
 <br>
 
