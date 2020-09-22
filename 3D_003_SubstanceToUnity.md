@@ -317,14 +317,17 @@ But we can work with the top-most regions of that dome section, generally adjust
 
 - When you're done, make the UV guide invisible in the **Layers** panel
 - Choose **File » Export » Save for Web (Legacy)**
-- Either replace the existing file (suggest backing it up first) or save a new version
-- Go back into your UE4 project and locate the **Landmine_BaseColor** asset in its folder in the **Content Browser**
-- **Right-click** it and either choose **Reimport** (if you replaced the existing file) or **Reimport with New File** if you made a new version
-> The BaseColor texture will be updated in all assets that use it
+- Save it as a new file called **Landmine_AlbedoTransparency_02** (or something similar) 
+- Go back into your Unity project and navigate to your **Assets » Landmine » Textures** folder
+- **Right-click** and choose **Import New Asset**
+- Import **Landmine_AlbedoTransparency_02** (or whatever you called it)
+- Navigate to **Assets » Landmine » Materials** and select the **LandmineMat** asset
+- In the **Inspector**, replace the current **Albedo** texture with the new version
+> The *LandmineMat* will be updated in all assets that use it
 
 <br>
 
-![Final hero shot](https://user-images.githubusercontent.com/36719180/93839439-0b8f4000-fce1-11ea-8488-bc7c2ccdc958.png)
+![Final hero shot](https://user-images.githubusercontent.com/36719180/93883794-26d86a80-fd36-11ea-82d4-661a0fbed394.png)
 
 <br><br>
 
@@ -338,7 +341,7 @@ That's it!
 
 Those are the complete basics of the *Maya » Substance » Unity 3D asset pipeline*.
 
-We skipped intermediate and advanced tips and tricks - but, really - you now have all of the skills used most commonly within the industry.
+Next time, we'll cover some intermediate and advanced tips and tricks — importantly, covering collision - but in truth you now have most of the relevant skills used most commonly within the industry.
 
 The rest will come through practice and through research that you'll do - as and when needed - to address more specific situations.
 
