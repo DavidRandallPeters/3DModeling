@@ -162,7 +162,31 @@ That's the material all set up. But our emission isn't glowing as we'd probably 
 
 In order for our emissive materials to glow nicely, we need to set up Unity's post-processing stack.
 
+This is a package that we need to import from the cloud.
+
 <br>
+
+- In the top menu bar, choose **Window » Package Manager**
+
+- Check that the **Packages** list's filter (top-left) is set to **Unity Registry** - NOT *In Project* or *My Assets* - this will allow the list to be populated fully
+
+- Search the list for **Universal Render Pipeline** and **Install** it
+
+> This package can now be found in the **Packages** folder in the **Content Browser**
+
+- In the **Content Browser**, navigate to **Packages » Post Processing » Postprocessing » Runtime**
+
+<br>
+
+![Post Process folder](https://user-images.githubusercontent.com/36719180/93874331-503dca00-fd27-11ea-8e4c-4032c1f01677.png)
+
+<br>
+
+- From the open folder in the **Project Browser**, drag **PostProcessLayer** out and onto the **Main Camera** in your **Hierarchy** to attach it
+
+- Also drag **PostProcessVolume** onto the **Main Camera**
+
+- Select the **Main Camera** in the **Hierarchy**
 
 - 
 
