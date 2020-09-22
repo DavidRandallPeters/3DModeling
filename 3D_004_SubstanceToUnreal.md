@@ -63,7 +63,7 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 - In the **Content Browser**, creat a folder for the asset - I'm calling mine *Landmine*
 > This will contain all the relevant textures, materials and mesh for this asset.
 - Create a **Materials** folder, **Textures** folder and **Mesh** folder
-- Open the **Textures**
+- Open the **Textures** folder
 - Hit the **Import** button at the top of the **Content** browser
 - Locate and import your textures
 
