@@ -60,8 +60,15 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 - Fire up your Unity project - or create one for the occasion.
 
->This tutorial covers Unity's standard render pipeline - the *Universal Render Pipeline (URP)* - if for some reason you'd like to use the *HDRP* for your project, let me know and I'll generate additional steps for *HDRP*.
+>This tutorial covers Unity's *Universal Render Pipeline (URP)* - if for some reason you'd like to use the *HDRP* for your project, let me know and I'll generate additional steps for *HDRP*.
 
-- In the
+- In a sensible location in the **Project** browser, create a folder called **Landmine**
 
+> This will contain all the relevant textures, materials and mesh for this asset.
+
+- Create a **Materials** folder, a **Textures** folder and a **Mesh** folder
+
+- Open the **Textures** folder
+
+- 
 
