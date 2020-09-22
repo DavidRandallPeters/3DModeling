@@ -208,6 +208,14 @@ This is a package that we need to import from the cloud.
 
 <br>
 
+- Still in the **Inspector**, set the **Layer** dropdown in the **Post-process Layer component** to **PostProcessing**
+
+<br>
+
+![Set layer](https://user-images.githubusercontent.com/36719180/93879454-d52ce180-fd2f-11ea-9907-4d882e50e5e9.png)
+
+<br>
+
 - 
 
 
