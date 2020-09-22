@@ -229,14 +229,19 @@ This is fairly straightforward:
 
 > While you're here, experiment with the other lens effects in this section.
 
+<br><br>
 
-<br>
+![Hero shot](https://user-images.githubusercontent.com/36719180/93834350-b3037700-fccf-11ea-955b-d57c12707aea.png)
+
+<br><br>
 
 That's it! 
 
 Those are the complete basics of the *Maya » Substance » UE4 3D asset pipeline*.
 
-We skipped some intermediate tips and tricks - but, really - you now have all of the skills used most commonly within the industry.
+We skipped intermediate and advanced tips and tricks - but, really - you now have all of the skills used most commonly within the industry.
+
+The rest will come through practice and through research that you'll do as and when needed to address more specific situations.
 
 Enjoy!
 
