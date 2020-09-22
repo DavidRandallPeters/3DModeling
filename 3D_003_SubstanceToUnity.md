@@ -70,5 +70,39 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 - Open the **Textures** folder
 
+- **Right-Click** inside that folder and choose **Import New Asset**
+
+- Locate and import your textures
+
+<br>
+
+![Textures imported](https://user-images.githubusercontent.com/36719180/93858445-49578d00-fd10-11ea-8a38-f0504383766b.png)
+
+<br><br>
+
+---
+
+## 003.003 | Material set-up
+
+<br>
+
+- In the **Textures** folder, select the **Normal map**
+
+- In the **Inspector**, set the **Texture Type** to **Normal map**
+
+- Hit **Apply** at the bottom of the **Inspector**
+
+- Go into your **Mesh** folder and import your **low-poly mesh** - the one you imported into Substance Painter
+
+- Drag the model into your scene - it'll likely look something like this:
+
+<br>
+
+
+
+<br>
+
 - 
+
+
 
