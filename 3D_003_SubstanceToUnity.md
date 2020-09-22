@@ -208,7 +208,7 @@ This is a package that we need to import from the cloud.
 
 <br>
 
-- Still in the **Inspector**, set the **Layer** dropdown in the **Post-process Layer component** to **PostProcessing**
+- Still in the **Inspector**, set the **Layer** dropdown in the **Post-process Layer component** to the **PostProcessing** layer that we just made
 
 <br>
 
