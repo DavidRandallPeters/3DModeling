@@ -52,6 +52,16 @@ Substance will run the export. You'll notice that the file-names have inherited 
 
 By all means leave this as is - I'm kinda fussy though - so I'll open the destination folder and tidy up those file names.
 
-<br><br>
-
 ---
+
+## 003.002 | Importing to Unity
+
+<br>
+
+- Fire up your Unity project - or create one for the occasion.
+
+>This tutorial covers Unity's standard render pipeline - the *Universal Render Pipeline (URP)* - if for some reason you'd like to use the *HDRP* for your project, let me know and I'll generate additional steps for *HDRP*.
+
+- In the
+
+
