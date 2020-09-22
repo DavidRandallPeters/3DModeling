@@ -38,7 +38,7 @@ Let's get into it:
 
 <br>
 
-![Export settings](https://user-images.githubusercontent.com/36719180/93734536-b9411700-fc2d-11ea-808e-70088bbda8a1.png)
+![Substance export settings](https://user-images.githubusercontent.com/36719180/93857430-ab16f780-fd0e-11ea-8783-eefa6974b760.png)
 
 <br>
 
