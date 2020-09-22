@@ -98,7 +98,7 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 <br>
 
-![Mesh imported](https://user-images.githubusercontent.com/36719180/93864628-4a40ec80-fd19-11ea-92de-ba85b4b596ec.png)
+![Mesh imported](https://user-images.githubusercontent.com/36719180/93870949-08687400-fd22-11ea-9501-484cc297cf27.png)
 
 <br>
 
@@ -120,7 +120,7 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 <br>
 
-![Paint job](https://user-images.githubusercontent.com/36719180/93869688-3e0c5d80-fd20-11ea-83cb-ad7ce6795904.png)
+![Paint job](https://user-images.githubusercontent.com/36719180/93871217-6301d000-fd22-11ea-8b9a-36cf40ab6119.png)
 
 <br>
 
