@@ -8,7 +8,6 @@ Notes prepared by David Peters
 Using Substance Painter 2020.2.1 (6.2.1) + Unreal 4.23.1
 
 ---
-
 ## 004.001 | Exporting from Substance Painter
 
 <br>
@@ -30,7 +29,7 @@ Let's get into it:
 - Double-check **Output directory** to make sure your destination folder is sensible
 - **8-bit .png** is fine
 - Set size to something sensible - **2048** is probably fine
-> If either your model is physically very large in your scene or you've included a LOT of model components, you may want to increase this to 4k .. but that's unlikely.. and expensive.. Remember that we're not just exporting a base materai but three other maps also. It all adds up. So maybe just see how you go with 2k and redo the export if you need to.
+> If either your model is physically very large in your scene or you've included a LOT of model components, you may want to increase this to 4k .. but that's unlikely.. and expensive.. Remember that we're not just exporting a base material but three other maps also - it all adds up. So maybe just see how you go with 2k and redo the export if you need to.
 > *Padding* is the same as 'bleed' (in printing terms). It spreads the colour information outside of your UV regions/shells to mitigate against seam-lines.
 - Check that **Padding** is set to **Dilation infinite**
 - Hit **Export**
@@ -52,6 +51,7 @@ Substance will run the export. You'll notice that the file-names have inherited 
 By all means leave this as is - I'm kinda fussy though - so I'll open the destination folder and tidy up those file names.
 
 <br><br>
+
 
 ---
 
@@ -238,6 +238,84 @@ This is fairly straightforward:
 ![Hero shot](https://user-images.githubusercontent.com/36719180/93834350-b3037700-fccf-11ea-955b-d57c12707aea.png)
 
 <br><br>
+
+---
+
+## 004.004 | Adding detail in Photoshop [optional]
+
+<br>
+
+Substance Painter isn't without its limitations.. If you're comfortable using Photoshop, this section will come as a handy option for adding detail to your base texture that you couldn't quite nail in Substance Painter.
+
+<br>
+
+- Locate your *pre-Unreal / post-Substance* **Landmine_BaseColor** texture asset in Windows Explorer / Mac Finder
+- Open it in **Photoshop**
+
+<br>
+
+![Open texture in Photoshop](https://user-images.githubusercontent.com/36719180/93837681-35456880-fcdb-11ea-8a0e-464b270dd321.png)
+
+<br>
+
+Here, we can add whatever details we like, save it and reimport the asset to Unreal.. But how do we colour within the lines, as it were? We don't have our UV map here in Photoshopto guide us..
+
+Let's hop into our Maya project and retrieve that UV Map.
+
+<br>
+
+- Open your asset scene in Maya
+- Open the **UV Editor**
+- Hit the little camera **UV Snapshot** button - it looks like a camera
+- Choose a sensible destination for the snapshot
+- Set the **Image Format** to **PNG** so that there's an alpha channel (transparency)
+- Ensure the resolution matches the texture resolution that you chose when you exported the textures from Substance Painter (probably **2048x2048**)
+- Set the **Edge Color** to black
+- Hit **Apply and Close** and the file will be saved
+
+<br>
+
+![UV Snapshot](https://user-images.githubusercontent.com/36719180/93838078-7e49ec80-fcdc-11ea-84b7-d5140480fdae.png)
+
+<br>
+
+- Locate that file and open it in **Photoshop**
+- Hit **CTRL + A** to *select all*, copy it and paste it in the **Landmine_BaseColor** document - it'll synch up perfectly
+
+<br>
+
+![UV map imported](https://user-images.githubusercontent.com/36719180/93838189-e698ce00-fcdc-11ea-8ed3-2629106cac8a.png)
+
+<br>
+
+Now, you can make those adjustments. This may be tricky in relation to certain UV shells, depending how they were unwrapped.. our options are a bit limited, for example, where it comes to the top-down projections of the circular dome.
+
+But we can work with the top-most regions of that dome section, adjust colour tones, and readily add detail to the yellow band.
+
+<br>
+
+![Additions made](https://user-images.githubusercontent.com/36719180/93839335-c1a65a00-fce0-11ea-8e1a-c0938bb594e2.png)
+
+<br>
+
+- When you're done, make the UV guide invisible in the **Layers** panel
+- Choose **File » Export » Save for Web (Legacy)**
+- Either replace the existing file (suggest backing it up first) or save a new version
+- Go back into your UE4 project and locate the **Landmine_BaseColor** asset in its folder in the **Content Browser**
+- **Right-click** it and either choose **Reimport** (if you replaced the existing file) or **Reimport with New File** if you made a new version
+> The BaseColor texture will be updated in all assets that use it
+
+<br>
+
+![Final hero shot](https://user-images.githubusercontent.com/36719180/93839439-0b8f4000-fce1-11ea-8488-bc7c2ccdc958.png)
+
+<br><br>
+
+---
+
+## 004.005 | In summary
+
+<br>
 
 That's it! 
 
