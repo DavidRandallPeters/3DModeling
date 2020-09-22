@@ -193,6 +193,10 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 <br>
 
+![Glow, no glow](https://user-images.githubusercontent.com/36719180/93834808-412c2d00-fcd1-11ea-84e9-c9f9bc0158f2.png)
+
+<br>
+
 The landmine in your scene should be starting to look pretty good - but it may not be glowing quite as you'd expect..
 
 <br><br>
