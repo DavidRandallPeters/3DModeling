@@ -106,7 +106,7 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 - **Right-click** inside the folder and choose **Create » Material**
 
-- Call it **LandmineMat**
+- Call it *LandmineMat*
 
 - Drag the new material from the **Project Browser** onto the landmine object in the scene
 
@@ -184,9 +184,29 @@ This is a package that we need to import from the cloud.
 
 - From the open folder in the **Project Browser**, drag **PostProcessLayer** out and onto the **Main Camera** in your **Hierarchy** to attach it
 
-- Also drag **PostProcessVolume** onto the **Main Camera**
+- Also drag **PostProcessVolume** onto the **Main Camera** to attach that
 
 - Select the **Main Camera** in the **Hierarchy**
+
+- At the top of the **Inspector**, use the **Layer** dropdown to **Add layer...**
+
+- In any free slot (slot #8 is probably free), add a layer called *PostProcessing*
+
+<br>
+
+![New layer](https://user-images.githubusercontent.com/36719180/93876230-97798a00-fd2a-11ea-981a-5e88459974df.png)
+
+<br>
+
+- Reselect the **Main Camera**
+
+- Ensure that its **Layer** is set to **PostProcessing**
+
+<br>
+
+![Post Processing layer](https://user-images.githubusercontent.com/36719180/93876271-aeb87780-fd2a-11ea-880f-c5f77e15b61b.png)
+
+<br>
 
 - 
 
