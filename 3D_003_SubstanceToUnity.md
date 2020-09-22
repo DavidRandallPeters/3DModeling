@@ -266,7 +266,7 @@ Substance Painter isn't without its limitations.. If you're comfortable using Ph
 
 <br>
 
-- Locate your *pre-Unreal / post-Substance* **Landmine_BaseColor** texture asset in Windows Explorer / Mac Finder
+- Locate your *pre-Unity / post-Substance* **Landmine_AlbedoTransparency** texture asset in Windows Explorer / Mac Finder
 - Open it in **Photoshop**
 
 <br>
@@ -275,7 +275,7 @@ Substance Painter isn't without its limitations.. If you're comfortable using Ph
 
 <br>
 
-Here, we can add whatever details we like, save it and reimport the asset to Unreal.. But how do we colour within the lines, as it were? We don't have our UV map here in Photoshopto guide us..
+Here, we can add whatever details we like, save it and reimport the asset to Unity.. But how do we colour within the lines, as it were? We don't have our UV map here in Photoshopto guide us..
 
 Let's hop into our Maya project and retrieve that UV Map.
 
@@ -297,7 +297,7 @@ Let's hop into our Maya project and retrieve that UV Map.
 <br>
 
 - Locate that file and open it in **Photoshop**
-- Hit **CTRL + A** to *select all*, copy it and paste it in the **Landmine_BaseColor** document - it'll synch up perfectly
+- Hit **CTRL + A** to *select all*, copy it and paste it in the **Landmine_AlbedoTransparency** document - it'll synch up perfectly
 
 <br>
 
