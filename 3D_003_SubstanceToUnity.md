@@ -110,13 +110,17 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 - Drag the new material from the **Project Browser** onto the landmine object in the scene
 
-- With the material still selected in the **Project Browser**, hit the 'circle selector' (that's what Unity calls the tiny little button to the left of the word **Albedo** to open the *Select Texture* window
+- With the material still selected in the **Project Browser**, look at the top of the **Inspector** for the **Shader** dropdown
+
+- Set this to **Standard (Specular setup)**
+
+- Hit the 'circle selector' (that's what Unity calls the tiny little button to the left of the word **Albedo**) to open the *Select Texture* window for **Albedo**
 
 - Locate and select the **Landmine_AlbedoTransparency** texture and close the window - your landmine should now have a paint-job
 
 <br>
 
-![Paint job](https://user-images.githubusercontent.com/36719180/93867167-c557d200-fd1c-11ea-97cd-748233310b2e.png)
+![Paint job](https://user-images.githubusercontent.com/36719180/93869688-3e0c5d80-fd20-11ea-83cb-ad7ce6795904.png)
 
 <br>
 
