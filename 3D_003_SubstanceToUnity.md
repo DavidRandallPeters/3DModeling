@@ -16,7 +16,7 @@ Using Substance Painter 2020.2.1 (6.2.1) + Unity 2020.1.6f1
 
 We'll start from where we left off in *3D_002_Substance.md*.
 
-I'll assume you're happy with your model's paintjob and are about ready to send it over to Unity.
+I'll assume you're happy with your model's paint job and are about ready to send it over to Unity.
 
 I'll include an extra [optional] step that involves opening your *BaseMaterial* texture in Photoshop to make graphical additions there.
 
