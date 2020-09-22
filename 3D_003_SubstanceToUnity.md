@@ -252,14 +252,13 @@ Things should now be looking much better:
 
 <br>
 
-![Hero shot](https://user-images.githubusercontent.com/36719180/93881867-913bdb80-fd33-11ea-8fa9-af792e73ce38.png)
-
+![Hero shot](https://user-images.githubusercontent.com/36719180/93882093-d95afe00-fd33-11ea-8f7a-72927cd57757.png)
 
 <br><br>
 
 ---
 
-## 003.004 | Adding detail in Photoshop [optional]
+## 003.005 | Adding detail in Photoshop [optional]
 
 <br>
 
@@ -331,7 +330,7 @@ But we can work with the top-most regions of that dome section, generally adjust
 
 ---
 
-## 003.005 | In summary
+## 003.006 | In summary
 
 <br>
 
