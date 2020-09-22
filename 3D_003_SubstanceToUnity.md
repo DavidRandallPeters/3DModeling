@@ -124,7 +124,52 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 <br>
 
-- Connect 
+- In the same way, connect the **SpecularSmoothness** map to the material's **Specular** channel
+
+<br>
+
+![Specular added](https://user-images.githubusercontent.com/36719180/93871797-503bcb00-fd23-11ea-82d7-ffad0e5b289b.png)
+
+<br>
+
+- Connect the **LandmineNormal** map to the **NormapMap** channel
+
+<br>
+
+![Normal added](https://user-images.githubusercontent.com/36719180/93872012-a872cd00-fd23-11ea-87d4-41224c04f07d.png)
+
+<br>
+
+- Check the **Emission** checkbox
+
+- Connect the **LandmineEmission** map to the **Emission » Color** channel
+
+<br>
+
+![Emission added](https://user-images.githubusercontent.com/36719180/93872780-c68cfd00-fd24-11ea-80f8-114ecb9b5699.png)
+
+<br><br>
+
+That's the material all set up. But our emission isn't glowing as we'd probably like it to.
+
+<br><br>
+
+---
+
+## 003.004 | Adding Post-processing
+
+<br>
+
+In order for our emissive materials to glow nicely, we need to set up Unity's post-processing stack.
+
+<br>
+
+- 
+
+
+
+
+
 
 
 
