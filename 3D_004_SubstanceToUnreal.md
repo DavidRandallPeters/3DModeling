@@ -288,9 +288,9 @@ Let's hop into our Maya project and retrieve that UV Map.
 
 <br>
 
-Now, you can make those adjustments. This may be tricky in relation to certain UV shells, depending how they were unwrapped.. our options are a bit limited, for example, where it comes to the top-down projections of the circular dome.
+Now you can make those adjustments. This may be tricky in regard to certain UV shells, depending how they were unwrapped.. our options are a bit limited, for example, where it comes to the top-down projections of the circular dome.
 
-But we can work with the top-most regions of that dome section, adjust colour tones, and readily add detail to the yellow band.
+But we can work with the top-most regions of that dome section, generally adjust colour tones, and readily add detail to the yellow band.
 
 <br>
 
