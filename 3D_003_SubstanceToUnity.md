@@ -220,13 +220,39 @@ This is a package that we need to import from the cloud.
 
 <br>
 
-![New Post Process volume](https://user-images.githubusercontent.com/36719180/93879785-7caa1400-fd30-11ea-8ee2-3003a4093392.png)
+![New Post Process profile](https://user-images.githubusercontent.com/36719180/93879785-7caa1400-fd30-11ea-8ee2-3003a4093392.png)
 
-> Note that this has created a profile and stored it in this location: *Assets » Scenes » [name of scene]_Profiles*
+> Note that this has created a post-processing profile and stored it in this location: *Assets » Scenes » [name of scene]_Profiles*
 
 <br>
 
-- sgdsg
+- In the **Post-process Layer** component, hit **Add effect** and choose **Unity » Bloom**
+
+- Check the **Intensity** checkbox
+
+- Dial **Intensity** up to about **8**
+
+- Also add *Ambient Occlusion* (**Add effect » Unity» Ambient Occlusion**)
+
+> *Ambient Occlusion (AO)* Is an expression of dark regions where light would struggle to reach in the real world - eg. where floors and walls meet - and indeed near-regions where the landmine sits on the ground
+
+- Check **Mode** and **Intensity** and dial up the **Intensity** slider until you're happy with what you see
+
+> By all means add other camera post-effects while you're at it
+
+- In the **Project Browser**, navigate to your **LandmineMat** material and select it
+
+- In the **Inspector**, hit the **HDR** button to the right of **Emission » Color**
+
+- At the bottom of the pop-up, adjust the **Intensity** of the material's emission
+
+<br>
+
+Things should now be looking much better:
+
+<br>
+
+![Hero shot](https://user-images.githubusercontent.com/36719180/93881867-913bdb80-fd33-11ea-8fa9-af792e73ce38.png)
 
 
 <br><br>
