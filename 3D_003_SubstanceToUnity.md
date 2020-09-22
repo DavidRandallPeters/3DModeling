@@ -45,6 +45,7 @@ Let's get into it:
 Substance will run the export. You'll notice that the file-names have inherited the name of your Maya shader - most likely this is *lambert1*.
 
 <br>
+
 ![Lamberts](https://user-images.githubusercontent.com/36719180/93857532-d699e200-fd0e-11ea-8fc5-b087e8c2d1c7.png)
 
 <br>
