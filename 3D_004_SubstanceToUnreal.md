@@ -232,6 +232,17 @@ This is fairly straightforward:
 
 <br>
 
+That's it! 
+
+Those are the complete basics of the *Maya » Substance » UE4 3D asset pipeline*.
+
+We skipped some intermediate tips and tricks - but, really - you now have all of the skills used most commonly within the industry.
+
+Enjoy!
+
+<br><br>
+
+---
 
 
 
