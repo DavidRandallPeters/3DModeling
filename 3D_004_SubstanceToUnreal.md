@@ -71,6 +71,12 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 ![Import](https://user-images.githubusercontent.com/36719180/93734835-0376c800-fc2f-11ea-9cb1-07328d8c1cc9.png)
 
+<br><br>
+
+---
+
+## 004.003 | Material set-up
+
 <br>
 
 - In the **Content Browser** Double-click the **OcclusionRoughnessMetallic** file to open the asset
@@ -183,7 +189,48 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 
 <br>
 
-- 
+- That's all we need to do in here - hit **Save** in the top-left of the screen and head back to the editor
+
+<br>
+
+The landmine in your scene should be starting to look pretty good - but it may not be glowing quite as you'd expect..
+
+<br><br>
+
+---
+
+## 004.004 | Applying post-processing effects
+
+<br>
+
+To make our emissive regions really *glow,* we need to utilise UE4's post-processing effects.
+
+To do this, we simply need to include a *Post Process Volume* in our scene
+
+This is fairly straightforward:
+
+<br>
+
+- Locate the **Place Actor** panel (also known as the **Modes** panel) - this is usually docked to the left of the viewport but can otherwise be accessed via **Window » Editor Modes » Modes panel / Place Actor** 
+
+- Select the **Visual Effects** category
+
+- Drag a **Post Process Volume** into the scene - this is a cube / volume that applies your chosen visual effects while the camera is *within* that volume
+
+- Scale the volume to encompass your scene
+
+- With the **Post Process Volume** selected, locate the **Lens** section in the **Details** panel
+
+- Expand **Bloom*
+
+- Check the **Method**, **Intensity** and **Threshold** checkboxes
+
+- Ensuring that the editor's camera is inside the **Post Process Volume**, experiment with these values until you achieve the look you're going for
+
+> While you're here, experiment with the other lens effects in this section.
+
+
+<br>
 
 
 
