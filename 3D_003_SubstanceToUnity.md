@@ -216,7 +216,17 @@ This is a package that we need to import from the cloud.
 
 <br>
 
-- 
+- In the **Post-process Layer** component, hit the **New** button to create a new *PP Profile*
+
+<br>
+
+![New Post Process volume](https://user-images.githubusercontent.com/36719180/93879785-7caa1400-fd30-11ea-8ee2-3003a4093392.png)
+
+> Note that this has created a profile and stored it in this location: *Assets » Scenes » [name of scene]_Profiles*
+
+<br>
+
+- sgdsg
 
 
 <br><br>
