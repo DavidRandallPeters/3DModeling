@@ -342,9 +342,6 @@ That's it!
 Those are the complete basics of the *Maya » Substance » Unity 3D asset pipeline*.
 
 Next time, we'll cover some intermediate and advanced tips and tricks — importantly, covering collision - but in truth you now have most of the relevant skills used most commonly within the industry.
-
-The rest will come through practice and through research that you'll do - as and when needed - to address more specific situations.
-
 Enjoy!
 
 <br><br>
