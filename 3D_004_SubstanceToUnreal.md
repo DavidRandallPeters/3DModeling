@@ -97,7 +97,16 @@ By all means leave this as is - I'm kinda fussy though - so I'll open the destin
 - Go into your **Landmine » Materials** folder
 - **Right-click** inside that [empty] folder and choose **Material** to create a new material
 - Name it **LandmineMat**
-- Double-click the new material to open it in Unreal's *Material editor*
+- Select the **Landmine** in your scene
+- Drag the **LandmineMat** material from the **Content Browser** into the **Element 0** slot in the **Materials** section of the **Details** panel to apply this material to the Actor
+
+<br>
+
+![Blank material](https://user-images.githubusercontent.com/36719180/93833175-fd82f480-fccb-11ea-8b3f-23005f675020.png)
+
+<br>
+
+- Double-click the **LandmineMat** material in the **Content Browsert** to open it in Unreal's *Material editor*
 
 > You'll see a material node with empty slots - it's our task to plug our textures into the correct slots to make this render as it we want it to
 
