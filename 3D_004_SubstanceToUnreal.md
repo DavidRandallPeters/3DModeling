@@ -225,7 +225,7 @@ This is fairly straightforward:
 
 - With the **Post Process Volume** selected, locate the **Lens** section in the **Details** panel
 
-- Expand **Bloom*
+- Expand **Bloom**
 
 - Check the **Method**, **Intensity** and **Threshold** checkboxes
 
