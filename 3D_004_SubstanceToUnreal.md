@@ -241,7 +241,7 @@ This is fairly straightforward:
 
 ---
 
-## 004.004 | Adding detail in Photoshop [optional]
+## 004.005 | Adding detail in Photoshop [optional]
 
 <br>
 
@@ -313,7 +313,7 @@ But we can work with the top-most regions of that dome section, generally adjust
 
 ---
 
-## 004.005 | In summary
+## 004.006 | In summary
 
 <br>
 
