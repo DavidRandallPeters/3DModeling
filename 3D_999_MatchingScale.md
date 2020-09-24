@@ -2,7 +2,7 @@
 
 # [WIP - check back soon]
 
-![Banner Unreal](https://user-images.githubusercontent.com/36719180/93731545-91e44d00-fc21-11ea-8de9-4594e1a276f8.png)
+![Maya banner](https://user-images.githubusercontent.com/36719180/94086347-c09b3700-fe5e-11ea-9b86-2d7adf4b92dc.png)
 
 
 Notes prepared by David Peters
