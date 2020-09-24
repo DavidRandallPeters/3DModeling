@@ -1,4 +1,6 @@
-# 3D Modeling for Game | 999 | Matching Scale [WIP - check back soon]
+# 3D Modeling for Game | 999 | Matching Scale
+
+# [WIP - check back soon]
 
 ![Banner Unreal](https://user-images.githubusercontent.com/36719180/93731545-91e44d00-fc21-11ea-8de9-4594e1a276f8.png)
 
